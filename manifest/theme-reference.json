@@ -1,0 +1,44 @@
+{
+  "url": "https://ddn.by/wp-content/themes/yootheme/css/theme.1.css?ver=1542888068",
+  "dependencyUrls": [
+    "https://fonts.googleapis.com/css?family=Fira+Sans&subset=cyrillic,latin",
+    "https://ddn.by/wp-content/plugins/woocommerce/assets/fonts/star.eot",
+    "https://ddn.by/wp-content/plugins/woocommerce/assets/fonts/star.eot#iefix",
+    "https://ddn.by/wp-content/plugins/woocommerce/assets/fonts/star.woff",
+    "https://ddn.by/wp-content/plugins/woocommerce/assets/fonts/star.ttf",
+    "https://ddn.by/wp-content/plugins/woocommerce/assets/fonts/star.svg#star",
+    "https://ddn.by/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot",
+    "https://ddn.by/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot#iefix",
+    "https://ddn.by/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff",
+    "https://ddn.by/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf",
+    "https://ddn.by/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg#WooCommerce",
+    "https://ddn.by/wp-content/plugins/woocommerce/assets/images/icons/loader.svg",
+    "https://ddn.by/wp-content/plugins/woocommerce/assets/images/icons/loader.svg",
+    "https://ddn.by/wp-content/themes/yootheme/vendor/plugins/woocommerce/assets/images/icons/credit-cards/visa.png",
+    "https://ddn.by/wp-content/themes/yootheme/vendor/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.png",
+    "https://ddn.by/wp-content/themes/yootheme/vendor/plugins/woocommerce/assets/images/icons/credit-cards/laser.png",
+    "https://ddn.by/wp-content/themes/yootheme/vendor/plugins/woocommerce/assets/images/icons/credit-cards/diners.png",
+    "https://ddn.by/wp-content/themes/yootheme/vendor/plugins/woocommerce/assets/images/icons/credit-cards/maestro.png",
+    "https://ddn.by/wp-content/themes/yootheme/vendor/plugins/woocommerce/assets/images/icons/credit-cards/jcb.png",
+    "https://ddn.by/wp-content/themes/yootheme/vendor/plugins/woocommerce/assets/images/icons/credit-cards/amex.png",
+    "https://ddn.by/wp-content/themes/yootheme/vendor/plugins/woocommerce/assets/images/icons/credit-cards/discover.png"
+  ],
+  "fonts": [
+    {
+      "url": "https://ddn.by/wp-content/plugins/woocommerce/assets/fonts/star.woff",
+      "path": "assets/source/font-8c4614414c30.woff"
+    },
+    {
+      "url": "https://ddn.by/wp-content/plugins/woocommerce/assets/fonts/star.ttf",
+      "path": "assets/source/font-d697e706a884.ttf"
+    },
+    {
+      "url": "https://ddn.by/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff",
+      "path": "assets/source/font-fa6653d7cf26.woff"
+    },
+    {
+      "url": "https://ddn.by/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf",
+      "path": "assets/source/font-b2eac59558c5.ttf"
+    }
+  ]
+}

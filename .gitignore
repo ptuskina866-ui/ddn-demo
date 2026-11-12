@@ -1,0 +1,16 @@
+# Raw source responses and local working data are not published.
+cache/
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+reports/local-*
+screenshots/
+

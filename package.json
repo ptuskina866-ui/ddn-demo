@@ -1,0 +1,13 @@
+{
+  "name": "dream-design-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Статическая демонстрационная версия ddn.by для согласования структуры и оформления",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "python -m http.server 4173 --directory dist",
+    "verify": "python scripts/verify_site.py",
+    "refresh": "python scripts/crawl.py --refresh",
+    "aliases": "python scripts/build_aliases.py"
+  }
+}

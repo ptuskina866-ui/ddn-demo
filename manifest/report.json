@@ -1,0 +1,370 @@
+{
+  "capturedAt": "2026-11-12T11:19:49.956014+00:00",
+  "sourceUrl": "https://ddn.by",
+  "rest": {
+    "products": {
+      "expected": 591,
+      "captured": 591,
+      "pages": 6
+    },
+    "posts": {
+      "expected": 19,
+      "captured": 19,
+      "pages": 1
+    },
+    "pages": {
+      "expected": 8,
+      "captured": 8,
+      "pages": 1
+    }
+  },
+  "sitemap": {
+    "products": 591,
+    "posts": 19,
+    "pages": 8,
+    "categories": 53
+  },
+  "archives": {
+    "expectedPages": 37,
+    "capturedPages": 37,
+    "uniqueProductIds": 591,
+    "pages": {
+      "https://ddn.by/catalog/page/2/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/3/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/4/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/5/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/6/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/10/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/7/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/9/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/8/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/11/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/12/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/15/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/14/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/13/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/17/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/16/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/18/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/20/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/23/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/19/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/21/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/25/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/24/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/22/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/27/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/28/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/26/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/29/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/31/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/30/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/34/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/33/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/32/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/35/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/36/": {
+        "products": 16,
+        "ok": true
+      },
+      "https://ddn.by/catalog/page/37/": {
+        "products": 15,
+        "ok": true
+      }
+    }
+  },
+  "assets": {
+    "requested": 977,
+    "captured": 977,
+    "optimizedBytes": 32375176,
+    "downloadedBytesThisRun": 31812349,
+    "errors": []
+  },
+  "neutralWeaponRecords": {
+    "products": 3,
+    "posts": 3
+  },
+  "sourceGaps": {
+    "productsWithoutDescription": [
+      "470",
+      "473",
+      "474",
+      "475",
+      "476",
+      "477",
+      "478",
+      "479",
+      "482",
+      "483",
+      "1009",
+      "1021",
+      "1022",
+      "1036",
+      "1049",
+      "1050",
+      "1051",
+      "1053",
+      "1054",
+      "1056",
+      "1134",
+      "1169",
+      "1230",
+      "1807",
+      "1853",
+      "2627",
+      "2639",
+      "2641",
+      "2644",
+      "2646",
+      "2700",
+      "2719",
+      "2721",
+      "2737",
+      "2740",
+      "2929",
+      "2931",
+      "2932",
+      "2936",
+      "2959",
+      "2988",
+      "2990",
+      "3077",
+      "3081",
+      "3086",
+      "3091",
+      "3095",
+      "3097",
+      "3099",
+      "3103",
+      "3105",
+      "3108",
+      "3110",
+      "3112",
+      "3114",
+      "3116",
+      "3118",
+      "3120",
+      "3122",
+      "3129",
+      "3131",
+      "3133",
+      "3135",
+      "3137",
+      "3139",
+      "3142",
+      "3145",
+      "3148",
+      "3150",
+      "3152",
+      "3154",
+      "3159",
+      "3161",
+      "3163",
+      "3165",
+      "3174",
+      "3176",
+      "3177",
+      "3179",
+      "3181",
+      "3186",
+      "3189",
+      "3191",
+      "3193",
+      "3195",
+      "3198",
+      "3202",
+      "3204",
+      "3206",
+      "3208",
+      "3210",
+      "3212",
+      "3214",
+      "3216",
+      "3219",
+      "3221",
+      "3222",
+      "3224",
+      "3226",
+      "3228",
+      "3231",
+      "3233",
+      "3235",
+      "3237",
+      "3240",
+      "3243",
+      "3245",
+      "3247",
+      "3249",
+      "3251",
+      "3254",
+      "3257",
+      "3269",
+      "3271",
+      "3273",
+      "3275",
+      "3279",
+      "3281",
+      "3283",
+      "3284",
+      "3286",
+      "3288",
+      "3290",
+      "3291",
+      "3293",
+      "3295",
+      "3297",
+      "3299",
+      "3301",
+      "3305",
+      "3308",
+      "3314",
+      "3318",
+      "3320",
+      "3322",
+      "3324",
+      "3327",
+      "3329",
+      "3331",
+      "3333",
+      "3335",
+      "3340",
+      "3342",
+      "3379",
+      "3402",
+      "3404",
+      "3407",
+      "3409",
+      "3411",
+      "3413",
+      "3415",
+      "3417",
+      "3418",
+      "3421",
+      "3423",
+      "3425",
+      "3427",
+      "3429",
+      "3431",
+      "3492",
+      "3619",
+      "3626"
+    ],
+    "productsWithoutSourceImage": [
+      "1179",
+      "1955"
+    ]
+  },
+  "errors": [],
+  "missingCategoryProducts": [],
+  "publicContentAdjustments": [
+    "Weapon product and post records are neutral informational entries without images, commercial descriptions, pricing or ordering.",
+    "Weapon-direction dealer paragraph removed from public contacts; original retained only in non-published cache.",
+    "Page text rebuilt from sanitized HTML to exclude YOOtheme builder metadata."
+  ]
+}

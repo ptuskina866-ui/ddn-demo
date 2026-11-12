@@ -1,0 +1,3542 @@
+{
+  "generatedCount": 706,
+  "generated": [
+    {
+      "source": "https://ddn.by/about-us/",
+      "file": "about-us/index.html",
+      "route": "#/about"
+    },
+    {
+      "source": "https://ddn.by/catalog/",
+      "file": "catalog/index.html",
+      "route": "#/catalog"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/10/",
+      "file": "catalog/page/10/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/11/",
+      "file": "catalog/page/11/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/12/",
+      "file": "catalog/page/12/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/13/",
+      "file": "catalog/page/13/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/14/",
+      "file": "catalog/page/14/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/15/",
+      "file": "catalog/page/15/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/16/",
+      "file": "catalog/page/16/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/17/",
+      "file": "catalog/page/17/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/18/",
+      "file": "catalog/page/18/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/19/",
+      "file": "catalog/page/19/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/2/",
+      "file": "catalog/page/2/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/20/",
+      "file": "catalog/page/20/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/21/",
+      "file": "catalog/page/21/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/22/",
+      "file": "catalog/page/22/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/23/",
+      "file": "catalog/page/23/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/24/",
+      "file": "catalog/page/24/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/25/",
+      "file": "catalog/page/25/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/26/",
+      "file": "catalog/page/26/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/27/",
+      "file": "catalog/page/27/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/28/",
+      "file": "catalog/page/28/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/29/",
+      "file": "catalog/page/29/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/3/",
+      "file": "catalog/page/3/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/30/",
+      "file": "catalog/page/30/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/31/",
+      "file": "catalog/page/31/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/32/",
+      "file": "catalog/page/32/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/33/",
+      "file": "catalog/page/33/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/34/",
+      "file": "catalog/page/34/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/35/",
+      "file": "catalog/page/35/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/36/",
+      "file": "catalog/page/36/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/37/",
+      "file": "catalog/page/37/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/4/",
+      "file": "catalog/page/4/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/5/",
+      "file": "catalog/page/5/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/6/",
+      "file": "catalog/page/6/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/7/",
+      "file": "catalog/page/7/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/8/",
+      "file": "catalog/page/8/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/catalog/page/9/",
+      "file": "catalog/page/9/index.html",
+      "route": "#/catalog/all"
+    },
+    {
+      "source": "https://ddn.by/checkout/",
+      "file": "checkout/index.html",
+      "route": "#/privacy"
+    },
+    {
+      "source": "https://ddn.by/contacts/",
+      "file": "contacts/index.html",
+      "route": "#/contacts"
+    },
+    {
+      "source": "https://ddn.by/detskij-sad-dinosad/",
+      "file": "detskij-sad-dinosad/index.html",
+      "route": "#/project/detskij-sad-dinosad"
+    },
+    {
+      "source": "https://ddn.by/kabinet-rukovoditelya/",
+      "file": "kabinet-rukovoditelya/index.html",
+      "route": "#/project/kabinet-rukovoditelya"
+    },
+    {
+      "source": "https://ddn.by/kofetochka-fabrika/",
+      "file": "kofetochka-fabrika/index.html",
+      "route": "#/project/kofetochka-fabrika"
+    },
+    {
+      "source": "https://ddn.by/kvartira-2/",
+      "file": "kvartira-2/index.html",
+      "route": "#/project/kvartira-2"
+    },
+    {
+      "source": "https://ddn.by/kvartira/",
+      "file": "kvartira/index.html",
+      "route": "#/project/kvartira"
+    },
+    {
+      "source": "https://ddn.by/lyzherollery/",
+      "file": "lyzherollery/index.html",
+      "route": "#/project/lyzherollery"
+    },
+    {
+      "source": "https://ddn.by/mercedes-benz-vito/",
+      "file": "mercedes-benz-vito/index.html",
+      "route": "#/project/mercedes-benz-vito"
+    },
+    {
+      "source": "https://ddn.by/my-account/",
+      "file": "my-account/index.html",
+      "route": "#/privacy"
+    },
+    {
+      "source": "https://ddn.by/nashi-raboty-v-intererah-zakazchikov/",
+      "file": "nashi-raboty-v-intererah-zakazchikov/index.html",
+      "route": "#/project/nashi-raboty-v-intererah-zakazchikov"
+    },
+    {
+      "source": "https://ddn.by/our-works/",
+      "file": "our-works/index.html",
+      "route": "#/projects"
+    },
+    {
+      "source": "https://ddn.by/peregovornaya/",
+      "file": "peregovornaya/index.html",
+      "route": "#/project/peregovornaya"
+    },
+    {
+      "source": "https://ddn.by/petrobar-na-zybitskoj/",
+      "file": "petrobar-na-zybitskoj/index.html",
+      "route": "#/project/petrobar-na-zybitskoj"
+    },
+    {
+      "source": "https://ddn.by/product-category/izdeliya-iz-kompozitnyh-materialov/",
+      "file": "product-category/izdeliya-iz-kompozitnyh-materialov/index.html",
+      "route": "#/category/izdeliya-iz-kompozitnyh-materialov"
+    },
+    {
+      "source": "https://ddn.by/product-category/izdeliya-iz-metalla/",
+      "file": "product-category/izdeliya-iz-metalla/index.html",
+      "route": "#/category/izdeliya-iz-metalla"
+    },
+    {
+      "source": "https://ddn.by/product-category/izdeliya-iz-metalla/dekoratsii/",
+      "file": "product-category/izdeliya-iz-metalla/dekoratsii/index.html",
+      "route": "#/category/dekoratsii"
+    },
+    {
+      "source": "https://ddn.by/product-category/izdeliya-iz-metalla/loft/",
+      "file": "product-category/izdeliya-iz-metalla/loft/index.html",
+      "route": "#/category/loft"
+    },
+    {
+      "source": "https://ddn.by/product-category/izdeliya-iz-metalla/lyzherollery/",
+      "file": "product-category/izdeliya-iz-metalla/lyzherollery/index.html",
+      "route": "#/category/lyzherollery"
+    },
+    {
+      "source": "https://ddn.by/product-category/izdeliya-iz-metalla/mangaly/",
+      "file": "product-category/izdeliya-iz-metalla/mangaly/index.html",
+      "route": "#/category/mangaly"
+    },
+    {
+      "source": "https://ddn.by/product-category/izdeliya-iz-metalla/mebel-loft/",
+      "file": "product-category/izdeliya-iz-metalla/mebel-loft/index.html",
+      "route": "#/category/mebel-loft"
+    },
+    {
+      "source": "https://ddn.by/product-category/izdeliya-iz-metalla/podstolya/",
+      "file": "product-category/izdeliya-iz-metalla/podstolya/index.html",
+      "route": "#/category/podstolya"
+    },
+    {
+      "source": "https://ddn.by/product-category/izdeliya-iz-metalla/polki-loft/",
+      "file": "product-category/izdeliya-iz-metalla/polki-loft/index.html",
+      "route": "#/category/polki-loft"
+    },
+    {
+      "source": "https://ddn.by/product-category/izdeliya-iz-metalla/skamejki/",
+      "file": "product-category/izdeliya-iz-metalla/skamejki/index.html",
+      "route": "#/category/skamejki"
+    },
+    {
+      "source": "https://ddn.by/product-category/korpusnaya-mebel/",
+      "file": "product-category/korpusnaya-mebel/index.html",
+      "route": "#/category/korpusnaya-mebel"
+    },
+    {
+      "source": "https://ddn.by/product-category/korpusnaya-mebel/krovati/",
+      "file": "product-category/korpusnaya-mebel/krovati/index.html",
+      "route": "#/category/krovati"
+    },
+    {
+      "source": "https://ddn.by/product-category/korpusnaya-mebel/kuhni/",
+      "file": "product-category/korpusnaya-mebel/kuhni/index.html",
+      "route": "#/category/kuhni"
+    },
+    {
+      "source": "https://ddn.by/product-category/korpusnaya-mebel/mebel-dly-kabineta-rukovoditely/",
+      "file": "product-category/korpusnaya-mebel/mebel-dly-kabineta-rukovoditely/index.html",
+      "route": "#/category/mebel-dly-kabineta-rukovoditely"
+    },
+    {
+      "source": "https://ddn.by/product-category/korpusnaya-mebel/mebel-dly-zags/",
+      "file": "product-category/korpusnaya-mebel/mebel-dly-zags/index.html",
+      "route": "#/category/mebel-dly-zags"
+    },
+    {
+      "source": "https://ddn.by/product-category/korpusnaya-mebel/mebel-dlya-detskoj/",
+      "file": "product-category/korpusnaya-mebel/mebel-dlya-detskoj/index.html",
+      "route": "#/category/mebel-dlya-detskoj"
+    },
+    {
+      "source": "https://ddn.by/product-category/korpusnaya-mebel/mebel-dlya-gostinoj/",
+      "file": "product-category/korpusnaya-mebel/mebel-dlya-gostinoj/index.html",
+      "route": "#/category/mebel-dlya-gostinoj"
+    },
+    {
+      "source": "https://ddn.by/product-category/korpusnaya-mebel/mebel-dlya-kabineta/",
+      "file": "product-category/korpusnaya-mebel/mebel-dlya-kabineta/index.html",
+      "route": "#/category/mebel-dlya-kabineta"
+    },
+    {
+      "source": "https://ddn.by/product-category/korpusnaya-mebel/mebel-dlya-ofisa/",
+      "file": "product-category/korpusnaya-mebel/mebel-dlya-ofisa/index.html",
+      "route": "#/category/mebel-dlya-ofisa"
+    },
+    {
+      "source": "https://ddn.by/product-category/korpusnaya-mebel/mebel-dlya-prihozhej/",
+      "file": "product-category/korpusnaya-mebel/mebel-dlya-prihozhej/index.html",
+      "route": "#/category/mebel-dlya-prihozhej"
+    },
+    {
+      "source": "https://ddn.by/product-category/korpusnaya-mebel/mebel-dlya-spalni/",
+      "file": "product-category/korpusnaya-mebel/mebel-dlya-spalni/index.html",
+      "route": "#/category/mebel-dlya-spalni"
+    },
+    {
+      "source": "https://ddn.by/product-category/korpusnaya-mebel/polki/",
+      "file": "product-category/korpusnaya-mebel/polki/index.html",
+      "route": "#/category/polki"
+    },
+    {
+      "source": "https://ddn.by/product-category/korpusnaya-mebel/shkafy/",
+      "file": "product-category/korpusnaya-mebel/shkafy/index.html",
+      "route": "#/category/shkafy"
+    },
+    {
+      "source": "https://ddn.by/product-category/korpusnaya-mebel/shkafy/shkafy-dlya-odezhdy/",
+      "file": "product-category/korpusnaya-mebel/shkafy/shkafy-dlya-odezhdy/index.html",
+      "route": "#/category/shkafy-dlya-odezhdy"
+    },
+    {
+      "source": "https://ddn.by/product-category/korpusnaya-mebel/stoly/",
+      "file": "product-category/korpusnaya-mebel/stoly/index.html",
+      "route": "#/category/stoly"
+    },
+    {
+      "source": "https://ddn.by/product-category/korpusnaya-mebel/tumby-komody/",
+      "file": "product-category/korpusnaya-mebel/tumby-komody/index.html",
+      "route": "#/category/tumby-komody"
+    },
+    {
+      "source": "https://ddn.by/product-category/mebel-dlya-kabineta-rukovoditelya/",
+      "file": "product-category/mebel-dlya-kabineta-rukovoditelya/index.html",
+      "route": "#/category/mebel-dlya-kabineta-rukovoditelya"
+    },
+    {
+      "source": "https://ddn.by/product-category/myagkaya-mebel/",
+      "file": "product-category/myagkaya-mebel/index.html",
+      "route": "#/category/myagkaya-mebel"
+    },
+    {
+      "source": "https://ddn.by/product-category/myagkaya-mebel/banketki/",
+      "file": "product-category/myagkaya-mebel/banketki/index.html",
+      "route": "#/category/banketki"
+    },
+    {
+      "source": "https://ddn.by/product-category/myagkaya-mebel/kresla/",
+      "file": "product-category/myagkaya-mebel/kresla/index.html",
+      "route": "#/category/kresla"
+    },
+    {
+      "source": "https://ddn.by/product-category/myagkaya-mebel/pryamye-divany/",
+      "file": "product-category/myagkaya-mebel/pryamye-divany/index.html",
+      "route": "#/category/pryamye-divany"
+    },
+    {
+      "source": "https://ddn.by/product-category/myagkaya-mebel/pufi/",
+      "file": "product-category/myagkaya-mebel/pufi/index.html",
+      "route": "#/category/pufi"
+    },
+    {
+      "source": "https://ddn.by/product-category/myagkaya-mebel/uglovye-divany/",
+      "file": "product-category/myagkaya-mebel/uglovye-divany/index.html",
+      "route": "#/category/uglovye-divany"
+    },
+    {
+      "source": "https://ddn.by/product-category/predmety-interera/",
+      "file": "product-category/predmety-interera/index.html",
+      "route": "#/category/predmety-interera"
+    },
+    {
+      "source": "https://ddn.by/product-category/predmety-interera/butylochnitsy/",
+      "file": "product-category/predmety-interera/butylochnitsy/index.html",
+      "route": "#/category/butylochnitsy"
+    },
+    {
+      "source": "https://ddn.by/product-category/predmety-interera/ramki-dlya-fotografij/",
+      "file": "product-category/predmety-interera/ramki-dlya-fotografij/index.html",
+      "route": "#/category/ramki-dlya-fotografij"
+    },
+    {
+      "source": "https://ddn.by/product-category/predmety-interera/razvivayushhie-tovary/",
+      "file": "product-category/predmety-interera/razvivayushhie-tovary/index.html",
+      "route": "#/category/razvivayushhie-tovary"
+    },
+    {
+      "source": "https://ddn.by/product-category/predmety-interera/suveniry/",
+      "file": "product-category/predmety-interera/suveniry/index.html",
+      "route": "#/category/suveniry"
+    },
+    {
+      "source": "https://ddn.by/product-category/promyshlennaya-mebel/",
+      "file": "product-category/promyshlennaya-mebel/index.html",
+      "route": "#/category/promyshlennaya-mebel"
+    },
+    {
+      "source": "https://ddn.by/product-category/promyshlennaya-mebel/linii-komplektovaniya/",
+      "file": "product-category/promyshlennaya-mebel/linii-komplektovaniya/index.html",
+      "route": "#/category/linii-komplektovaniya"
+    },
+    {
+      "source": "https://ddn.by/product-category/promyshlennaya-mebel/promyshlennye-stoly/",
+      "file": "product-category/promyshlennaya-mebel/promyshlennye-stoly/index.html",
+      "route": "#/category/promyshlennye-stoly"
+    },
+    {
+      "source": "https://ddn.by/product-category/promyshlennaya-mebel/stellazhi-i-shkafy/",
+      "file": "product-category/promyshlennaya-mebel/stellazhi-i-shkafy/index.html",
+      "route": "#/category/stellazhi-i-shkafy"
+    },
+    {
+      "source": "https://ddn.by/product-category/promyshlennaya-mebel/telezhki-podkatnye/",
+      "file": "product-category/promyshlennaya-mebel/telezhki-podkatnye/index.html",
+      "route": "#/category/telezhki-podkatnye"
+    },
+    {
+      "source": "https://ddn.by/product-category/shkafy-dlya-dokumentov/",
+      "file": "product-category/shkafy-dlya-dokumentov/index.html",
+      "route": "#/category/shkafy-dlya-dokumentov"
+    },
+    {
+      "source": "https://ddn.by/product-category/shvejnye-izdeliya/",
+      "file": "product-category/shvejnye-izdeliya/index.html",
+      "route": "#/category/shvejnye-izdeliya"
+    },
+    {
+      "source": "https://ddn.by/product-category/shvejnye-izdeliya/chehly-obshhego-naznacheniya/",
+      "file": "product-category/shvejnye-izdeliya/chehly-obshhego-naznacheniya/index.html",
+      "route": "#/category/chehly-obshhego-naznacheniya"
+    },
+    {
+      "source": "https://ddn.by/product-category/shvejnye-izdeliya/halaty/",
+      "file": "product-category/shvejnye-izdeliya/halaty/index.html",
+      "route": "#/category/halaty"
+    },
+    {
+      "source": "https://ddn.by/product-category/shvejnye-izdeliya/kombinezony/",
+      "file": "product-category/shvejnye-izdeliya/kombinezony/index.html",
+      "route": "#/category/kombinezony"
+    },
+    {
+      "source": "https://ddn.by/product-category/shvejnye-izdeliya/kostyumy/",
+      "file": "product-category/shvejnye-izdeliya/kostyumy/index.html",
+      "route": "#/category/kostyumy"
+    },
+    {
+      "source": "https://ddn.by/product-category/shvejnye-izdeliya/perchatki/",
+      "file": "product-category/shvejnye-izdeliya/perchatki/index.html",
+      "route": "#/category/perchatki"
+    },
+    {
+      "source": "https://ddn.by/product-category/shvejnye-izdeliya/spetsodezhda-siti/",
+      "file": "product-category/shvejnye-izdeliya/spetsodezhda-siti/index.html",
+      "route": "#/category/spetsodezhda-siti"
+    },
+    {
+      "source": "https://ddn.by/product-category/shvejnye-izdeliya/zhilety/",
+      "file": "product-category/shvejnye-izdeliya/zhilety/index.html",
+      "route": "#/category/zhilety"
+    },
+    {
+      "source": "https://ddn.by/product-category/sportivnoe-snaryazhenie/",
+      "file": "product-category/sportivnoe-snaryazhenie/index.html",
+      "route": "#/category/sportivnoe-snaryazhenie"
+    },
+    {
+      "source": "https://ddn.by/product/1134/",
+      "file": "product/1134/index.html",
+      "route": "#/product/1134"
+    },
+    {
+      "source": "https://ddn.by/product/1183/",
+      "file": "product/1183/index.html",
+      "route": "#/product/1183"
+    },
+    {
+      "source": "https://ddn.by/product/5-ti-modulnyj-radiusnyj-divajder-so-skamejkoj-v-tkanevoj-obivke/",
+      "file": "product/5-ti-modulnyj-radiusnyj-divajder-so-skamejkoj-v-tkanevoj-obivke/index.html",
+      "route": "#/product/5-ti-modulnyj-radiusnyj-divajder-so-skamejkoj-v-tkanevoj-obivke"
+    },
+    {
+      "source": "https://ddn.by/product/829/",
+      "file": "product/829/index.html",
+      "route": "#/product/829"
+    },
+    {
+      "source": "https://ddn.by/product/977/",
+      "file": "product/977/index.html",
+      "route": "#/product/977"
+    },
+    {
+      "source": "https://ddn.by/product/babochka/",
+      "file": "product/babochka/index.html",
+      "route": "#/product/babochka"
+    },
+    {
+      "source": "https://ddn.by/product/banketka-brown/",
+      "file": "product/banketka-brown/index.html",
+      "route": "#/product/banketka-brown"
+    },
+    {
+      "source": "https://ddn.by/product/banketka-loft-3/",
+      "file": "product/banketka-loft-3/index.html",
+      "route": "#/product/banketka-loft-3"
+    },
+    {
+      "source": "https://ddn.by/product/banketka-raduga/",
+      "file": "product/banketka-raduga/index.html",
+      "route": "#/product/banketka-raduga"
+    },
+    {
+      "source": "https://ddn.by/product/banketka-skoba-2/",
+      "file": "product/banketka-skoba-2/index.html",
+      "route": "#/product/banketka-skoba-2"
+    },
+    {
+      "source": "https://ddn.by/product/banketka-skoba/",
+      "file": "product/banketka-skoba/index.html",
+      "route": "#/product/banketka-skoba"
+    },
+    {
+      "source": "https://ddn.by/product/banketka-so-spinkoj/",
+      "file": "product/banketka-so-spinkoj/index.html",
+      "route": "#/product/banketka-so-spinkoj"
+    },
+    {
+      "source": "https://ddn.by/product/blok-yashhikov-optima-1-2/",
+      "file": "product/blok-yashhikov-optima-1-2/index.html",
+      "route": "#/product/blok-yashhikov-optima-1-2"
+    },
+    {
+      "source": "https://ddn.by/product/blok-yashhikov-optima-1/",
+      "file": "product/blok-yashhikov-optima-1/index.html",
+      "route": "#/product/blok-yashhikov-optima-1"
+    },
+    {
+      "source": "https://ddn.by/product/bochka-dlya-vina/",
+      "file": "product/bochka-dlya-vina/index.html",
+      "route": "#/product/bochka-dlya-vina"
+    },
+    {
+      "source": "https://ddn.by/product/brifing-pristavka/",
+      "file": "product/brifing-pristavka/index.html",
+      "route": "#/product/brifing-pristavka"
+    },
+    {
+      "source": "https://ddn.by/product/bryuki-muzhskie-letnie-siti/",
+      "file": "product/bryuki-muzhskie-letnie-siti/index.html",
+      "route": "#/product/bryuki-muzhskie-letnie-siti"
+    },
+    {
+      "source": "https://ddn.by/product/bryuki-zhenskie-letnie-siti/",
+      "file": "product/bryuki-zhenskie-letnie-siti/index.html",
+      "route": "#/product/bryuki-zhenskie-letnie-siti"
+    },
+    {
+      "source": "https://ddn.by/product/chasy-belarus/",
+      "file": "product/chasy-belarus/index.html",
+      "route": "#/product/chasy-belarus"
+    },
+    {
+      "source": "https://ddn.by/product/chasy-globus/",
+      "file": "product/chasy-globus/index.html",
+      "route": "#/product/chasy-globus"
+    },
+    {
+      "source": "https://ddn.by/product/chasy-nastennye-d35/",
+      "file": "product/chasy-nastennye-d35/index.html",
+      "route": "#/product/chasy-nastennye-d35"
+    },
+    {
+      "source": "https://ddn.by/product/dekor-snezhinka/",
+      "file": "product/dekor-snezhinka/index.html",
+      "route": "#/product/dekor-snezhinka"
+    },
+    {
+      "source": "https://ddn.by/product/dekor-v-assortimente-bez-pokraski/",
+      "file": "product/dekor-v-assortimente-bez-pokraski/index.html",
+      "route": "#/product/dekor-v-assortimente-bez-pokraski"
+    },
+    {
+      "source": "https://ddn.by/product/dekor-valentinka-2/",
+      "file": "product/dekor-valentinka-2/index.html",
+      "route": "#/product/dekor-valentinka-2"
+    },
+    {
+      "source": "https://ddn.by/product/dekor-valentinka-malenkaya/",
+      "file": "product/dekor-valentinka-malenkaya/index.html",
+      "route": "#/product/dekor-valentinka-malenkaya"
+    },
+    {
+      "source": "https://ddn.by/product/dekor-valentinka-srednyaya/",
+      "file": "product/dekor-valentinka-srednyaya/index.html",
+      "route": "#/product/dekor-valentinka-srednyaya"
+    },
+    {
+      "source": "https://ddn.by/product/dekor-valentinka/",
+      "file": "product/dekor-valentinka/index.html",
+      "route": "#/product/dekor-valentinka"
+    },
+    {
+      "source": "https://ddn.by/product/dekor-yajtso/",
+      "file": "product/dekor-yajtso/index.html",
+      "route": "#/product/dekor-yajtso"
+    },
+    {
+      "source": "https://ddn.by/product/dekorativnaya-podstavka-dlya-tsvetov/",
+      "file": "product/dekorativnaya-podstavka-dlya-tsvetov/index.html",
+      "route": "#/product/dekorativnaya-podstavka-dlya-tsvetov"
+    },
+    {
+      "source": "https://ddn.by/product/dekorativnaya-podveska-bychok/",
+      "file": "product/dekorativnaya-podveska-bychok/index.html",
+      "route": "#/product/dekorativnaya-podveska-bychok"
+    },
+    {
+      "source": "https://ddn.by/product/dekorativnaya-podveska-luna/",
+      "file": "product/dekorativnaya-podveska-luna/index.html",
+      "route": "#/product/dekorativnaya-podveska-luna"
+    },
+    {
+      "source": "https://ddn.by/product/dekorativnaya-podveska-zvezda/",
+      "file": "product/dekorativnaya-podveska-zvezda/index.html",
+      "route": "#/product/dekorativnaya-podveska-zvezda"
+    },
+    {
+      "source": "https://ddn.by/product/dekorativnoe-pano/",
+      "file": "product/dekorativnoe-pano/index.html",
+      "route": "#/product/dekorativnoe-pano"
+    },
+    {
+      "source": "https://ddn.by/product/dekorativnyj-yashhik/",
+      "file": "product/dekorativnyj-yashhik/index.html",
+      "route": "#/product/dekorativnyj-yashhik"
+    },
+    {
+      "source": "https://ddn.by/product/divajdery-dlya-hraneniya-dokumentov-i-veshhej/",
+      "file": "product/divajdery-dlya-hraneniya-dokumentov-i-veshhej/index.html",
+      "route": "#/product/divajdery-dlya-hraneniya-dokumentov-i-veshhej"
+    },
+    {
+      "source": "https://ddn.by/product/divan-2/",
+      "file": "product/divan-2/index.html",
+      "route": "#/product/divan-2"
+    },
+    {
+      "source": "https://ddn.by/product/divan-3/",
+      "file": "product/divan-3/index.html",
+      "route": "#/product/divan-3"
+    },
+    {
+      "source": "https://ddn.by/product/divan-4/",
+      "file": "product/divan-4/index.html",
+      "route": "#/product/divan-4"
+    },
+    {
+      "source": "https://ddn.by/product/divan-5/",
+      "file": "product/divan-5/index.html",
+      "route": "#/product/divan-5"
+    },
+    {
+      "source": "https://ddn.by/product/divan-6/",
+      "file": "product/divan-6/index.html",
+      "route": "#/product/divan-6"
+    },
+    {
+      "source": "https://ddn.by/product/divan-brown/",
+      "file": "product/divan-brown/index.html",
+      "route": "#/product/divan-brown"
+    },
+    {
+      "source": "https://ddn.by/product/divan-chesterfild/",
+      "file": "product/divan-chesterfild/index.html",
+      "route": "#/product/divan-chesterfild"
+    },
+    {
+      "source": "https://ddn.by/product/divan-fialka/",
+      "file": "product/divan-fialka/index.html",
+      "route": "#/product/divan-fialka"
+    },
+    {
+      "source": "https://ddn.by/product/divan-flesh/",
+      "file": "product/divan-flesh/index.html",
+      "route": "#/product/divan-flesh"
+    },
+    {
+      "source": "https://ddn.by/product/divan-i-kreslo-snezhanna/",
+      "file": "product/divan-i-kreslo-snezhanna/index.html",
+      "route": "#/product/divan-i-kreslo-snezhanna"
+    },
+    {
+      "source": "https://ddn.by/product/divan-modulnyj-sektor-a/",
+      "file": "product/divan-modulnyj-sektor-a/index.html",
+      "route": "#/product/divan-modulnyj-sektor-a"
+    },
+    {
+      "source": "https://ddn.by/product/divan-modulnyj-sektor-v/",
+      "file": "product/divan-modulnyj-sektor-v/index.html",
+      "route": "#/product/divan-modulnyj-sektor-v"
+    },
+    {
+      "source": "https://ddn.by/product/divan-pryamoj-dzhaz/",
+      "file": "product/divan-pryamoj-dzhaz/index.html",
+      "route": "#/product/divan-pryamoj-dzhaz"
+    },
+    {
+      "source": "https://ddn.by/product/divan-rudi/",
+      "file": "product/divan-rudi/index.html",
+      "route": "#/product/divan-rudi"
+    },
+    {
+      "source": "https://ddn.by/product/divan-samuraj/",
+      "file": "product/divan-samuraj/index.html",
+      "route": "#/product/divan-samuraj"
+    },
+    {
+      "source": "https://ddn.by/product/divan-uglovoj-dzhaz/",
+      "file": "product/divan-uglovoj-dzhaz/index.html",
+      "route": "#/product/divan-uglovoj-dzhaz"
+    },
+    {
+      "source": "https://ddn.by/product/divan/",
+      "file": "product/divan/index.html",
+      "route": "#/product/divan"
+    },
+    {
+      "source": "https://ddn.by/product/doska-dlya-syra-bolshaya/",
+      "file": "product/doska-dlya-syra-bolshaya/index.html",
+      "route": "#/product/doska-dlya-syra-bolshaya"
+    },
+    {
+      "source": "https://ddn.by/product/doska-dlya-syra-sosna/",
+      "file": "product/doska-dlya-syra-sosna/index.html",
+      "route": "#/product/doska-dlya-syra-sosna"
+    },
+    {
+      "source": "https://ddn.by/product/doska-dlya-syra-srednyaya/",
+      "file": "product/doska-dlya-syra-srednyaya/index.html",
+      "route": "#/product/doska-dlya-syra-srednyaya"
+    },
+    {
+      "source": "https://ddn.by/product/drovnitsa-loft/",
+      "file": "product/drovnitsa-loft/index.html",
+      "route": "#/product/drovnitsa-loft"
+    },
+    {
+      "source": "https://ddn.by/product/elka-s-sharikami-v-pokraske-malaya/",
+      "file": "product/elka-s-sharikami-v-pokraske-malaya/index.html",
+      "route": "#/product/elka-s-sharikami-v-pokraske-malaya"
+    },
+    {
+      "source": "https://ddn.by/product/fotoramka-angelochek-2/",
+      "file": "product/fotoramka-angelochek-2/index.html",
+      "route": "#/product/fotoramka-angelochek-2"
+    },
+    {
+      "source": "https://ddn.by/product/fotoramka-krestnaya/",
+      "file": "product/fotoramka-krestnaya/index.html",
+      "route": "#/product/fotoramka-krestnaya"
+    },
+    {
+      "source": "https://ddn.by/product/fotoramka-luchshaya-uchitelnitsa/",
+      "file": "product/fotoramka-luchshaya-uchitelnitsa/index.html",
+      "route": "#/product/fotoramka-luchshaya-uchitelnitsa"
+    },
+    {
+      "source": "https://ddn.by/product/fotoramka-luchshej-krestnoj/",
+      "file": "product/fotoramka-luchshej-krestnoj/index.html",
+      "route": "#/product/fotoramka-luchshej-krestnoj"
+    },
+    {
+      "source": "https://ddn.by/product/fotoramka-supermuzh/",
+      "file": "product/fotoramka-supermuzh/index.html",
+      "route": "#/product/fotoramka-supermuzh"
+    },
+    {
+      "source": "https://ddn.by/product/fotoramka-uzi/",
+      "file": "product/fotoramka-uzi/index.html",
+      "route": "#/product/fotoramka-uzi"
+    },
+    {
+      "source": "https://ddn.by/product/garderobnyj-shkaf-dlya-kabineta/",
+      "file": "product/garderobnyj-shkaf-dlya-kabineta/index.html",
+      "route": "#/product/garderobnyj-shkaf-dlya-kabineta"
+    },
+    {
+      "source": "https://ddn.by/product/halat-208-18/",
+      "file": "product/halat-208-18/index.html",
+      "route": "#/product/halat-208-18"
+    },
+    {
+      "source": "https://ddn.by/product/halat-muzhskoj-203-18/",
+      "file": "product/halat-muzhskoj-203-18/index.html",
+      "route": "#/product/halat-muzhskoj-203-18"
+    },
+    {
+      "source": "https://ddn.by/product/halat-muzhskoj-siti/",
+      "file": "product/halat-muzhskoj-siti/index.html",
+      "route": "#/product/halat-muzhskoj-siti"
+    },
+    {
+      "source": "https://ddn.by/product/halat-zhenskij-204-18/",
+      "file": "product/halat-zhenskij-204-18/index.html",
+      "route": "#/product/halat-zhenskij-204-18"
+    },
+    {
+      "source": "https://ddn.by/product/halat-zhenskij-s-relefami-206-18/",
+      "file": "product/halat-zhenskij-s-relefami-206-18/index.html",
+      "route": "#/product/halat-zhenskij-s-relefami-206-18"
+    },
+    {
+      "source": "https://ddn.by/product/igrovoj-kompleks/",
+      "file": "product/igrovoj-kompleks/index.html",
+      "route": "#/product/igrovoj-kompleks"
+    },
+    {
+      "source": "https://ddn.by/product/kalendar-nastennyj-karta-mira/",
+      "file": "product/kalendar-nastennyj-karta-mira/index.html",
+      "route": "#/product/kalendar-nastennyj-karta-mira"
+    },
+    {
+      "source": "https://ddn.by/product/kalendar-novyj-god/",
+      "file": "product/kalendar-novyj-god/index.html",
+      "route": "#/product/kalendar-novyj-god"
+    },
+    {
+      "source": "https://ddn.by/product/karandashnitsa-bashmak/",
+      "file": "product/karandashnitsa-bashmak/index.html",
+      "route": "#/product/karandashnitsa-bashmak"
+    },
+    {
+      "source": "https://ddn.by/product/karandashnitsa-sova/",
+      "file": "product/karandashnitsa-sova/index.html",
+      "route": "#/product/karandashnitsa-sova"
+    },
+    {
+      "source": "https://ddn.by/product/karandashnitsa/",
+      "file": "product/karandashnitsa/index.html",
+      "route": "#/product/karandashnitsa"
+    },
+    {
+      "source": "https://ddn.by/product/karkas-dlya-dekoratsii-polumesyats/",
+      "file": "product/karkas-dlya-dekoratsii-polumesyats/index.html",
+      "route": "#/product/karkas-dlya-dekoratsii-polumesyats"
+    },
+    {
+      "source": "https://ddn.by/product/kartina-podarochnaya/",
+      "file": "product/kartina-podarochnaya/index.html",
+      "route": "#/product/kartina-podarochnaya"
+    },
+    {
+      "source": "https://ddn.by/product/kashpo/",
+      "file": "product/kashpo/index.html",
+      "route": "#/product/kashpo"
+    },
+    {
+      "source": "https://ddn.by/product/klyuchnitsa-family/",
+      "file": "product/klyuchnitsa-family/index.html",
+      "route": "#/product/klyuchnitsa-family"
+    },
+    {
+      "source": "https://ddn.by/product/klyuchnitsa-schaste/",
+      "file": "product/klyuchnitsa-schaste/index.html",
+      "route": "#/product/klyuchnitsa-schaste"
+    },
+    {
+      "source": "https://ddn.by/product/klyuchnitsa/",
+      "file": "product/klyuchnitsa/index.html",
+      "route": "#/product/klyuchnitsa"
+    },
+    {
+      "source": "https://ddn.by/product/komod-2/",
+      "file": "product/komod-2/index.html",
+      "route": "#/product/komod-2"
+    },
+    {
+      "source": "https://ddn.by/product/komod-3/",
+      "file": "product/komod-3/index.html",
+      "route": "#/product/komod-3"
+    },
+    {
+      "source": "https://ddn.by/product/komod-4/",
+      "file": "product/komod-4/index.html",
+      "route": "#/product/komod-4"
+    },
+    {
+      "source": "https://ddn.by/product/komod-dsp-36mm/",
+      "file": "product/komod-dsp-36mm/index.html",
+      "route": "#/product/komod-dsp-36mm"
+    },
+    {
+      "source": "https://ddn.by/product/komod-dsp-st9-bereza-majnau/",
+      "file": "product/komod-dsp-st9-bereza-majnau/index.html",
+      "route": "#/product/komod-dsp-st9-bereza-majnau"
+    },
+    {
+      "source": "https://ddn.by/product/komod-faser-1200h700h450/",
+      "file": "product/komod-faser-1200h700h450/index.html",
+      "route": "#/product/komod-faser-1200h700h450"
+    },
+    {
+      "source": "https://ddn.by/product/komod-madison-belyj-s-risunkom-800h400h1000/",
+      "file": "product/komod-madison-belyj-s-risunkom-800h400h1000/index.html",
+      "route": "#/product/komod-madison-belyj-s-risunkom-800h400h1000"
+    },
+    {
+      "source": "https://ddn.by/product/komod-madison-svetlo-seryj-800h400h1000/",
+      "file": "product/komod-madison-svetlo-seryj-800h400h1000/index.html",
+      "route": "#/product/komod-madison-svetlo-seryj-800h400h1000"
+    },
+    {
+      "source": "https://ddn.by/product/komod/",
+      "file": "product/komod/index.html",
+      "route": "#/product/komod"
+    },
+    {
+      "source": "https://ddn.by/product/komplekt-divanov-dlya-zon-coffee-point/",
+      "file": "product/komplekt-divanov-dlya-zon-coffee-point/index.html",
+      "route": "#/product/komplekt-divanov-dlya-zon-coffee-point"
+    },
+    {
+      "source": "https://ddn.by/product/komplekt-kruglyh-stolov-loft-2/",
+      "file": "product/komplekt-kruglyh-stolov-loft-2/index.html",
+      "route": "#/product/komplekt-kruglyh-stolov-loft-2"
+    },
+    {
+      "source": "https://ddn.by/product/komplekt-veshalok-zhenih-i-nevesta/",
+      "file": "product/komplekt-veshalok-zhenih-i-nevesta/index.html",
+      "route": "#/product/komplekt-veshalok-zhenih-i-nevesta"
+    },
+    {
+      "source": "https://ddn.by/product/konferents-stol-2/",
+      "file": "product/konferents-stol-2/index.html",
+      "route": "#/product/konferents-stol-2"
+    },
+    {
+      "source": "https://ddn.by/product/konferents-stol/",
+      "file": "product/konferents-stol/index.html",
+      "route": "#/product/konferents-stol"
+    },
+    {
+      "source": "https://ddn.by/product/konstruktor-aeroplan/",
+      "file": "product/konstruktor-aeroplan/index.html",
+      "route": "#/product/konstruktor-aeroplan"
+    },
+    {
+      "source": "https://ddn.by/product/konstruktor-biplan/",
+      "file": "product/konstruktor-biplan/index.html",
+      "route": "#/product/konstruktor-biplan"
+    },
+    {
+      "source": "https://ddn.by/product/konvert-dlya-deneg-s-zavyazkoj/",
+      "file": "product/konvert-dlya-deneg-s-zavyazkoj/index.html",
+      "route": "#/product/konvert-dlya-deneg-s-zavyazkoj"
+    },
+    {
+      "source": "https://ddn.by/product/konvert-dlya-deneg/",
+      "file": "product/konvert-dlya-deneg/index.html",
+      "route": "#/product/konvert-dlya-deneg"
+    },
+    {
+      "source": "https://ddn.by/product/kopilka-dlya-monet/",
+      "file": "product/kopilka-dlya-monet/index.html",
+      "route": "#/product/kopilka-dlya-monet"
+    },
+    {
+      "source": "https://ddn.by/product/kopilka-dlya-probok/",
+      "file": "product/kopilka-dlya-probok/index.html",
+      "route": "#/product/kopilka-dlya-probok"
+    },
+    {
+      "source": "https://ddn.by/product/kopilka-mama-vs-papa/",
+      "file": "product/kopilka-mama-vs-papa/index.html",
+      "route": "#/product/kopilka-mama-vs-papa"
+    },
+    {
+      "source": "https://ddn.by/product/kopilka-suvenirnaya-fanera-dekupazh/",
+      "file": "product/kopilka-suvenirnaya-fanera-dekupazh/index.html",
+      "route": "#/product/kopilka-suvenirnaya-fanera-dekupazh"
+    },
+    {
+      "source": "https://ddn.by/product/kopilka-suvenirnaya-fanera-emal/",
+      "file": "product/kopilka-suvenirnaya-fanera-emal/index.html",
+      "route": "#/product/kopilka-suvenirnaya-fanera-emal"
+    },
+    {
+      "source": "https://ddn.by/product/kopilka-suvenirnaya-fanera-lak/",
+      "file": "product/kopilka-suvenirnaya-fanera-lak/index.html",
+      "route": "#/product/kopilka-suvenirnaya-fanera-lak"
+    },
+    {
+      "source": "https://ddn.by/product/kopilka-zubr/",
+      "file": "product/kopilka-zubr/index.html",
+      "route": "#/product/kopilka-zubr"
+    },
+    {
+      "source": "https://ddn.by/product/korobka-belarus/",
+      "file": "product/korobka-belarus/index.html",
+      "route": "#/product/korobka-belarus"
+    },
+    {
+      "source": "https://ddn.by/product/korobka-dlya-spetsij-v-lake/",
+      "file": "product/korobka-dlya-spetsij-v-lake/index.html",
+      "route": "#/product/korobka-dlya-spetsij-v-lake"
+    },
+    {
+      "source": "https://ddn.by/product/korobka-dlya-spetsij-v-pokraske/",
+      "file": "product/korobka-dlya-spetsij-v-pokraske/index.html",
+      "route": "#/product/korobka-dlya-spetsij-v-pokraske"
+    },
+    {
+      "source": "https://ddn.by/product/korobka-dlya-vina-dvojnaya/",
+      "file": "product/korobka-dlya-vina-dvojnaya/index.html",
+      "route": "#/product/korobka-dlya-vina-dvojnaya"
+    },
+    {
+      "source": "https://ddn.by/product/korobka-dlya-vina-s-uzorom/",
+      "file": "product/korobka-dlya-vina-s-uzorom/index.html",
+      "route": "#/product/korobka-dlya-vina-s-uzorom"
+    },
+    {
+      "source": "https://ddn.by/product/korobka-dlya-vina/",
+      "file": "product/korobka-dlya-vina/index.html",
+      "route": "#/product/korobka-dlya-vina"
+    },
+    {
+      "source": "https://ddn.by/product/korobka-dom-s-oknami/",
+      "file": "product/korobka-dom-s-oknami/index.html",
+      "route": "#/product/korobka-dom-s-oknami"
+    },
+    {
+      "source": "https://ddn.by/product/korobka-karandash/",
+      "file": "product/korobka-karandash/index.html",
+      "route": "#/product/korobka-karandash"
+    },
+    {
+      "source": "https://ddn.by/product/korobka-maminy-sokrovishha/",
+      "file": "product/korobka-maminy-sokrovishha/index.html",
+      "route": "#/product/korobka-maminy-sokrovishha"
+    },
+    {
+      "source": "https://ddn.by/product/korobka-nikakih-pregrad/",
+      "file": "product/korobka-nikakih-pregrad/index.html",
+      "route": "#/product/korobka-nikakih-pregrad"
+    },
+    {
+      "source": "https://ddn.by/product/korobka-penal-8-marta/",
+      "file": "product/korobka-penal-8-marta/index.html",
+      "route": "#/product/korobka-penal-8-marta"
+    },
+    {
+      "source": "https://ddn.by/product/korobka-skazochnyj-dom/",
+      "file": "product/korobka-skazochnyj-dom/index.html",
+      "route": "#/product/korobka-skazochnyj-dom"
+    },
+    {
+      "source": "https://ddn.by/product/korobka-strategicheskij-zapas/",
+      "file": "product/korobka-strategicheskij-zapas/index.html",
+      "route": "#/product/korobka-strategicheskij-zapas"
+    },
+    {
+      "source": "https://ddn.by/product/korzina-pashalnyj-zayats-v-pokraske/",
+      "file": "product/korzina-pashalnyj-zayats-v-pokraske/index.html",
+      "route": "#/product/korzina-pashalnyj-zayats-v-pokraske"
+    },
+    {
+      "source": "https://ddn.by/product/korzina-serdtse/",
+      "file": "product/korzina-serdtse/index.html",
+      "route": "#/product/korzina-serdtse"
+    },
+    {
+      "source": "https://ddn.by/product/kostyum-kurtka-bryuki-014-18/",
+      "file": "product/kostyum-kurtka-bryuki-014-18/index.html",
+      "route": "#/product/kostyum-kurtka-bryuki-014-18"
+    },
+    {
+      "source": "https://ddn.by/product/kostyum-kurtka-polukombinezon-001-18/",
+      "file": "product/kostyum-kurtka-polukombinezon-001-18/index.html",
+      "route": "#/product/kostyum-kurtka-polukombinezon-001-18"
+    },
+    {
+      "source": "https://ddn.by/product/kostyum-kurtka-polukombinezon-006-18/",
+      "file": "product/kostyum-kurtka-polukombinezon-006-18/index.html",
+      "route": "#/product/kostyum-kurtka-polukombinezon-006-18"
+    },
+    {
+      "source": "https://ddn.by/product/kostyum-kurtka-polukombinezon-012-18/",
+      "file": "product/kostyum-kurtka-polukombinezon-012-18/index.html",
+      "route": "#/product/kostyum-kurtka-polukombinezon-012-18"
+    },
+    {
+      "source": "https://ddn.by/product/kreslo-amber/",
+      "file": "product/kreslo-amber/index.html",
+      "route": "#/product/kreslo-amber"
+    },
+    {
+      "source": "https://ddn.by/product/kreslo-batterflyaj/",
+      "file": "product/kreslo-batterflyaj/index.html",
+      "route": "#/product/kreslo-batterflyaj"
+    },
+    {
+      "source": "https://ddn.by/product/kreslo-krovat/",
+      "file": "product/kreslo-krovat/index.html",
+      "route": "#/product/kreslo-krovat"
+    },
+    {
+      "source": "https://ddn.by/product/kreslo-life-2/",
+      "file": "product/kreslo-life-2/index.html",
+      "route": "#/product/kreslo-life-2"
+    },
+    {
+      "source": "https://ddn.by/product/kreslo-life/",
+      "file": "product/kreslo-life/index.html",
+      "route": "#/product/kreslo-life"
+    },
+    {
+      "source": "https://ddn.by/product/kreslo-lilla/",
+      "file": "product/kreslo-lilla/index.html",
+      "route": "#/product/kreslo-lilla"
+    },
+    {
+      "source": "https://ddn.by/product/kreslo-sun/",
+      "file": "product/kreslo-sun/index.html",
+      "route": "#/product/kreslo-sun"
+    },
+    {
+      "source": "https://ddn.by/product/kreslo-tahta/",
+      "file": "product/kreslo-tahta/index.html",
+      "route": "#/product/kreslo-tahta"
+    },
+    {
+      "source": "https://ddn.by/product/krovat-detskaya/",
+      "file": "product/krovat-detskaya/index.html",
+      "route": "#/product/krovat-detskaya"
+    },
+    {
+      "source": "https://ddn.by/product/krovat-loft/",
+      "file": "product/krovat-loft/index.html",
+      "route": "#/product/krovat-loft"
+    },
+    {
+      "source": "https://ddn.by/product/krovat-s-podushkami-matras/",
+      "file": "product/krovat-s-podushkami-matras/index.html",
+      "route": "#/product/krovat-s-podushkami-matras"
+    },
+    {
+      "source": "https://ddn.by/product/krovat/",
+      "file": "product/krovat/index.html",
+      "route": "#/product/krovat"
+    },
+    {
+      "source": "https://ddn.by/product/krovatka-detskaya/",
+      "file": "product/krovatka-detskaya/index.html",
+      "route": "#/product/krovatka-detskaya"
+    },
+    {
+      "source": "https://ddn.by/product/kuhnya-1/",
+      "file": "product/kuhnya-1/index.html",
+      "route": "#/product/kuhnya-1"
+    },
+    {
+      "source": "https://ddn.by/product/kuhnya-2/",
+      "file": "product/kuhnya-2/index.html",
+      "route": "#/product/kuhnya-2"
+    },
+    {
+      "source": "https://ddn.by/product/kuhnya-3/",
+      "file": "product/kuhnya-3/index.html",
+      "route": "#/product/kuhnya-3"
+    },
+    {
+      "source": "https://ddn.by/product/kuhnya-4/",
+      "file": "product/kuhnya-4/index.html",
+      "route": "#/product/kuhnya-4"
+    },
+    {
+      "source": "https://ddn.by/product/kuhnya-4024h2635h600/",
+      "file": "product/kuhnya-4024h2635h600/index.html",
+      "route": "#/product/kuhnya-4024h2635h600"
+    },
+    {
+      "source": "https://ddn.by/product/kuhnya-detskaya/",
+      "file": "product/kuhnya-detskaya/index.html",
+      "route": "#/product/kuhnya-detskaya"
+    },
+    {
+      "source": "https://ddn.by/product/kuhnya-iz-massiva/",
+      "file": "product/kuhnya-iz-massiva/index.html",
+      "route": "#/product/kuhnya-iz-massiva"
+    },
+    {
+      "source": "https://ddn.by/product/kuhnya-uglovaya-3620h2460h2080/",
+      "file": "product/kuhnya-uglovaya-3620h2460h2080/index.html",
+      "route": "#/product/kuhnya-uglovaya-3620h2460h2080"
+    },
+    {
+      "source": "https://ddn.by/product/kuhnya-uglovaya/",
+      "file": "product/kuhnya-uglovaya/index.html",
+      "route": "#/product/kuhnya-uglovaya"
+    },
+    {
+      "source": "https://ddn.by/product/kuhonnyj-blok/",
+      "file": "product/kuhonnyj-blok/index.html",
+      "route": "#/product/kuhonnyj-blok"
+    },
+    {
+      "source": "https://ddn.by/product/kuhonnyj-organajzer-salfetnitsa/",
+      "file": "product/kuhonnyj-organajzer-salfetnitsa/index.html",
+      "route": "#/product/kuhonnyj-organajzer-salfetnitsa"
+    },
+    {
+      "source": "https://ddn.by/product/kurtka-muzhskaya-letnyaya-siti-master/",
+      "file": "product/kurtka-muzhskaya-letnyaya-siti-master/index.html",
+      "route": "#/product/kurtka-muzhskaya-letnyaya-siti-master"
+    },
+    {
+      "source": "https://ddn.by/product/kurtka-muzhskaya-letnyaya-udlinennaya-siti/",
+      "file": "product/kurtka-muzhskaya-letnyaya-udlinennaya-siti/index.html",
+      "route": "#/product/kurtka-muzhskaya-letnyaya-udlinennaya-siti"
+    },
+    {
+      "source": "https://ddn.by/product/kurtka-zhenskaya-letnyaya-siti/",
+      "file": "product/kurtka-zhenskaya-letnyaya-siti/index.html",
+      "route": "#/product/kurtka-zhenskaya-letnyaya-siti"
+    },
+    {
+      "source": "https://ddn.by/product/liniya-komplektovaniya-i-narezki-provodov-modul-2/",
+      "file": "product/liniya-komplektovaniya-i-narezki-provodov-modul-2/index.html",
+      "route": "#/product/liniya-komplektovaniya-i-narezki-provodov-modul-2"
+    },
+    {
+      "source": "https://ddn.by/product/lyzherollery/",
+      "file": "product/lyzherollery/index.html",
+      "route": "#/product/lyzherollery"
+    },
+    {
+      "source": "https://ddn.by/product/magnit-23-fevralya/",
+      "file": "product/magnit-23-fevralya/index.html",
+      "route": "#/product/magnit-23-fevralya"
+    },
+    {
+      "source": "https://ddn.by/product/magnit-8-marta/",
+      "file": "product/magnit-8-marta/index.html",
+      "route": "#/product/magnit-8-marta"
+    },
+    {
+      "source": "https://ddn.by/product/magnit-bychok/",
+      "file": "product/magnit-bychok/index.html",
+      "route": "#/product/magnit-bychok"
+    },
+    {
+      "source": "https://ddn.by/product/magnit-s-logotipom-smolevichi/",
+      "file": "product/magnit-s-logotipom-smolevichi/index.html",
+      "route": "#/product/magnit-s-logotipom-smolevichi"
+    },
+    {
+      "source": "https://ddn.by/product/magnit-tigr/",
+      "file": "product/magnit-tigr/index.html",
+      "route": "#/product/magnit-tigr"
+    },
+    {
+      "source": "https://ddn.by/product/magnit-yajtso/",
+      "file": "product/magnit-yajtso/index.html",
+      "route": "#/product/magnit-yajtso"
+    },
+    {
+      "source": "https://ddn.by/product/mangal-telezhka/",
+      "file": "product/mangal-telezhka/index.html",
+      "route": "#/product/mangal-telezhka"
+    },
+    {
+      "source": "https://ddn.by/product/medal-iz-fanera-s-yubileem-v-pokraske/",
+      "file": "product/medal-iz-fanera-s-yubileem-v-pokraske/index.html",
+      "route": "#/product/medal-iz-fanera-s-yubileem-v-pokraske"
+    },
+    {
+      "source": "https://ddn.by/product/medal-vypusknik-detskogo-sada/",
+      "file": "product/medal-vypusknik-detskogo-sada/index.html",
+      "route": "#/product/medal-vypusknik-detskogo-sada"
+    },
+    {
+      "source": "https://ddn.by/product/medalnitsa-gimnastka-v-pokraske/",
+      "file": "product/medalnitsa-gimnastka-v-pokraske/index.html",
+      "route": "#/product/medalnitsa-gimnastka-v-pokraske"
+    },
+    {
+      "source": "https://ddn.by/product/medalnitsa-s-polkoj-moi-dostizheniya/",
+      "file": "product/medalnitsa-s-polkoj-moi-dostizheniya/index.html",
+      "route": "#/product/medalnitsa-s-polkoj-moi-dostizheniya"
+    },
+    {
+      "source": "https://ddn.by/product/menazhnitsa-iz-duba-in-yan/",
+      "file": "product/menazhnitsa-iz-duba-in-yan/index.html",
+      "route": "#/product/menazhnitsa-iz-duba-in-yan"
+    },
+    {
+      "source": "https://ddn.by/product/menazhnitsa-iz-duba-kvadratnaya/",
+      "file": "product/menazhnitsa-iz-duba-kvadratnaya/index.html",
+      "route": "#/product/menazhnitsa-iz-duba-kvadratnaya"
+    },
+    {
+      "source": "https://ddn.by/product/menazhnitsa-iz-duba-ovalnaya/",
+      "file": "product/menazhnitsa-iz-duba-ovalnaya/index.html",
+      "route": "#/product/menazhnitsa-iz-duba-ovalnaya"
+    },
+    {
+      "source": "https://ddn.by/product/menazhnitsa-iz-duba-serdce/",
+      "file": "product/menazhnitsa-iz-duba-serdce/index.html",
+      "route": "#/product/menazhnitsa-iz-duba-serdce"
+    },
+    {
+      "source": "https://ddn.by/product/menazhnitsa-yolka/",
+      "file": "product/menazhnitsa-yolka/index.html",
+      "route": "#/product/menazhnitsa-yolka"
+    },
+    {
+      "source": "https://ddn.by/product/meshok-strategicheskij-zapas-24-x-35/",
+      "file": "product/meshok-strategicheskij-zapas-24-x-35/index.html",
+      "route": "#/product/meshok-strategicheskij-zapas-24-x-35"
+    },
+    {
+      "source": "https://ddn.by/product/meshok-strategicheskij-zapas/",
+      "file": "product/meshok-strategicheskij-zapas/index.html",
+      "route": "#/product/meshok-strategicheskij-zapas"
+    },
+    {
+      "source": "https://ddn.by/product/nabor-biatlonista/",
+      "file": "product/nabor-biatlonista/index.html",
+      "route": "#/product/nabor-biatlonista"
+    },
+    {
+      "source": "https://ddn.by/product/nabor-podstakannikov-ieroglif-fanera-emal/",
+      "file": "product/nabor-podstakannikov-ieroglif-fanera-emal/index.html",
+      "route": "#/product/nabor-podstakannikov-ieroglif-fanera-emal"
+    },
+    {
+      "source": "https://ddn.by/product/nabor-podstakannikov-ieroglif/",
+      "file": "product/nabor-podstakannikov-ieroglif/index.html",
+      "route": "#/product/nabor-podstakannikov-ieroglif"
+    },
+    {
+      "source": "https://ddn.by/product/nabor-podvesok-bychok/",
+      "file": "product/nabor-podvesok-bychok/index.html",
+      "route": "#/product/nabor-podvesok-bychok"
+    },
+    {
+      "source": "https://ddn.by/product/nabor-zhurnalnyh-stolikov/",
+      "file": "product/nabor-zhurnalnyh-stolikov/index.html",
+      "route": "#/product/nabor-zhurnalnyh-stolikov"
+    },
+    {
+      "source": "https://ddn.by/product/nastolnyj-vechnyj-kalendar/",
+      "file": "product/nastolnyj-vechnyj-kalendar/index.html",
+      "route": "#/product/nastolnyj-vechnyj-kalendar"
+    },
+    {
+      "source": "https://ddn.by/product/nosok-novogodnij/",
+      "file": "product/nosok-novogodnij/index.html",
+      "route": "#/product/nosok-novogodnij"
+    },
+    {
+      "source": "https://ddn.by/product/novogodnee-ukrashenie-zvezda-luna-snezhinka/",
+      "file": "product/novogodnee-ukrashenie-zvezda-luna-snezhinka/index.html",
+      "route": "#/product/novogodnee-ukrashenie-zvezda-luna-snezhinka"
+    },
+    {
+      "source": "https://ddn.by/product/oblozhka-dlya-bloknota/",
+      "file": "product/oblozhka-dlya-bloknota/index.html",
+      "route": "#/product/oblozhka-dlya-bloknota"
+    },
+    {
+      "source": "https://ddn.by/product/opora-iz-massiva-l450/",
+      "file": "product/opora-iz-massiva-l450/index.html",
+      "route": "#/product/opora-iz-massiva-l450"
+    },
+    {
+      "source": "https://ddn.by/product/opora-iz-massiva-l710/",
+      "file": "product/opora-iz-massiva-l710/index.html",
+      "route": "#/product/opora-iz-massiva-l710"
+    },
+    {
+      "source": "https://ddn.by/product/organajzer-br/",
+      "file": "product/organajzer-br/index.html",
+      "route": "#/product/organajzer-br"
+    },
+    {
+      "source": "https://ddn.by/product/organajzer-dlya-kistej/",
+      "file": "product/organajzer-dlya-kistej/index.html",
+      "route": "#/product/organajzer-dlya-kistej"
+    },
+    {
+      "source": "https://ddn.by/product/organajzer-dlya-kosmetiki/",
+      "file": "product/organajzer-dlya-kosmetiki/index.html",
+      "route": "#/product/organajzer-dlya-kosmetiki"
+    },
+    {
+      "source": "https://ddn.by/product/organajzer-dlya-telefonov/",
+      "file": "product/organajzer-dlya-telefonov/index.html",
+      "route": "#/product/organajzer-dlya-telefonov"
+    },
+    {
+      "source": "https://ddn.by/product/organajzer-erf/",
+      "file": "product/organajzer-erf/index.html",
+      "route": "#/product/organajzer-erf"
+    },
+    {
+      "source": "https://ddn.by/product/osnovanie-kresla-life-iz-kompozitnyh-materialov/",
+      "file": "product/osnovanie-kresla-life-iz-kompozitnyh-materialov/index.html",
+      "route": "#/product/osnovanie-kresla-life-iz-kompozitnyh-materialov"
+    },
+    {
+      "source": "https://ddn.by/product/panno-3d-yajtso-pashalnoe-v-razbore/",
+      "file": "product/panno-3d-yajtso-pashalnoe-v-razbore/index.html",
+      "route": "#/product/panno-3d-yajtso-pashalnoe-v-razbore"
+    },
+    {
+      "source": "https://ddn.by/product/panno-semejnyj-kalendar-v-pokraske/",
+      "file": "product/panno-semejnyj-kalendar-v-pokraske/index.html",
+      "route": "#/product/panno-semejnyj-kalendar-v-pokraske"
+    },
+    {
+      "source": "https://ddn.by/product/panno/",
+      "file": "product/panno/index.html",
+      "route": "#/product/panno"
+    },
+    {
+      "source": "https://ddn.by/product/parikmaherskaya-detskaya/",
+      "file": "product/parikmaherskaya-detskaya/index.html",
+      "route": "#/product/parikmaherskaya-detskaya"
+    },
+    {
+      "source": "https://ddn.by/product/pashalnaya-korzinka/",
+      "file": "product/pashalnaya-korzinka/index.html",
+      "route": "#/product/pashalnaya-korzinka"
+    },
+    {
+      "source": "https://ddn.by/product/pashalnaya-podstavka-2/",
+      "file": "product/pashalnaya-podstavka-2/index.html",
+      "route": "#/product/pashalnaya-podstavka-2"
+    },
+    {
+      "source": "https://ddn.by/product/pashalnaya-podstavka/",
+      "file": "product/pashalnaya-podstavka/index.html",
+      "route": "#/product/pashalnaya-podstavka"
+    },
+    {
+      "source": "https://ddn.by/product/perchatki-pvh/",
+      "file": "product/perchatki-pvh/index.html",
+      "route": "#/product/perchatki-pvh"
+    },
+    {
+      "source": "https://ddn.by/product/podarochnaya-korobka-kruglaya-reznaya-fanera-dekupazh/",
+      "file": "product/podarochnaya-korobka-kruglaya-reznaya-fanera-dekupazh/index.html",
+      "route": "#/product/podarochnaya-korobka-kruglaya-reznaya-fanera-dekupazh"
+    },
+    {
+      "source": "https://ddn.by/product/podarochnaya-korobka-kruglaya-reznaya/",
+      "file": "product/podarochnaya-korobka-kruglaya-reznaya/index.html",
+      "route": "#/product/podarochnaya-korobka-kruglaya-reznaya"
+    },
+    {
+      "source": "https://ddn.by/product/podarochnaya-korobka-udlinennaya-reznaya-tubus-dlya-vina-v-emali/",
+      "file": "product/podarochnaya-korobka-udlinennaya-reznaya-tubus-dlya-vina-v-emali/index.html",
+      "route": "#/product/podarochnaya-korobka-udlinennaya-reznaya-tubus-dlya-vina-v-emali"
+    },
+    {
+      "source": "https://ddn.by/product/podarochnaya-korobka-udlinennaya-reznaya-tubus-dlya-vina-v-lake/",
+      "file": "product/podarochnaya-korobka-udlinennaya-reznaya-tubus-dlya-vina-v-lake/index.html",
+      "route": "#/product/podarochnaya-korobka-udlinennaya-reznaya-tubus-dlya-vina-v-lake"
+    },
+    {
+      "source": "https://ddn.by/product/podarochnyi-futlyar-gift-box-3/",
+      "file": "product/podarochnyi-futlyar-gift-box-3/index.html",
+      "route": "#/product/podarochnyi-futlyar-gift-box-3"
+    },
+    {
+      "source": "https://ddn.by/product/podarochnyi-meshochek/",
+      "file": "product/podarochnyi-meshochek/index.html",
+      "route": "#/product/podarochnyi-meshochek"
+    },
+    {
+      "source": "https://ddn.by/product/podarochnyj-suvenir-samolyot-bar-fanera-v-lake/",
+      "file": "product/podarochnyj-suvenir-samolyot-bar-fanera-v-lake/index.html",
+      "route": "#/product/podarochnyj-suvenir-samolyot-bar-fanera-v-lake"
+    },
+    {
+      "source": "https://ddn.by/product/podkova-iz-fanery-v-pokraske/",
+      "file": "product/podkova-iz-fanery-v-pokraske/index.html",
+      "route": "#/product/podkova-iz-fanery-v-pokraske"
+    },
+    {
+      "source": "https://ddn.by/product/podstakanniki-probkovye/",
+      "file": "product/podstakanniki-probkovye/index.html",
+      "route": "#/product/podstakanniki-probkovye"
+    },
+    {
+      "source": "https://ddn.by/product/podstakanniki-s-belorusskim-ornamentom/",
+      "file": "product/podstakanniki-s-belorusskim-ornamentom/index.html",
+      "route": "#/product/podstakanniki-s-belorusskim-ornamentom"
+    },
+    {
+      "source": "https://ddn.by/product/podstakanniki/",
+      "file": "product/podstakanniki/index.html",
+      "route": "#/product/podstakanniki"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dekorativnaya-decorstand-1/",
+      "file": "product/podstavka-dekorativnaya-decorstand-1/index.html",
+      "route": "#/product/podstavka-dekorativnaya-decorstand-1"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dekorativnaya-decorstand-2/",
+      "file": "product/podstavka-dekorativnaya-decorstand-2/index.html",
+      "route": "#/product/podstavka-dekorativnaya-decorstand-2"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dekorativnaya-decorstand-3/",
+      "file": "product/podstavka-dekorativnaya-decorstand-3/index.html",
+      "route": "#/product/podstavka-dekorativnaya-decorstand-3"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dekorativnaya-decorstand-4/",
+      "file": "product/podstavka-dekorativnaya-decorstand-4/index.html",
+      "route": "#/product/podstavka-dekorativnaya-decorstand-4"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dekorativnaya-decorstand-5/",
+      "file": "product/podstavka-dekorativnaya-decorstand-5/index.html",
+      "route": "#/product/podstavka-dekorativnaya-decorstand-5"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dekorativnaya-decorstand-6/",
+      "file": "product/podstavka-dekorativnaya-decorstand-6/index.html",
+      "route": "#/product/podstavka-dekorativnaya-decorstand-6"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dekorativnaya-decorstand-7/",
+      "file": "product/podstavka-dekorativnaya-decorstand-7/index.html",
+      "route": "#/product/podstavka-dekorativnaya-decorstand-7"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dekorativnaya-gun-1/",
+      "file": "product/podstavka-dekorativnaya-gun-1/index.html",
+      "route": "#/product/podstavka-dekorativnaya-gun-1"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dlya-fruktov-povorotnaya-sosna/",
+      "file": "product/podstavka-dlya-fruktov-povorotnaya-sosna/index.html",
+      "route": "#/product/podstavka-dlya-fruktov-povorotnaya-sosna"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dlya-fruktov-povorotnaya/",
+      "file": "product/podstavka-dlya-fruktov-povorotnaya/index.html",
+      "route": "#/product/podstavka-dlya-fruktov-povorotnaya"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dlya-knig-loft/",
+      "file": "product/podstavka-dlya-knig-loft/index.html",
+      "route": "#/product/podstavka-dlya-knig-loft"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dlya-kolets/",
+      "file": "product/podstavka-dlya-kolets/index.html",
+      "route": "#/product/podstavka-dlya-kolets"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dlya-lichnyh-veshhej/",
+      "file": "product/podstavka-dlya-lichnyh-veshhej/index.html",
+      "route": "#/product/podstavka-dlya-lichnyh-veshhej"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dlya-spetsij-150-x-200/",
+      "file": "product/podstavka-dlya-spetsij-150-x-200/index.html",
+      "route": "#/product/podstavka-dlya-spetsij-150-x-200"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dlya-spetsij/",
+      "file": "product/podstavka-dlya-spetsij/index.html",
+      "route": "#/product/podstavka-dlya-spetsij"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dlya-torta-1-yarus-250h250-2/",
+      "file": "product/podstavka-dlya-torta-1-yarus-250h250-2/index.html",
+      "route": "#/product/podstavka-dlya-torta-1-yarus-250h250-2"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dlya-torta-1-yarus-250h250/",
+      "file": "product/podstavka-dlya-torta-1-yarus-250h250/index.html",
+      "route": "#/product/podstavka-dlya-torta-1-yarus-250h250"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dlya-torta-1-yarus-250h55/",
+      "file": "product/podstavka-dlya-torta-1-yarus-250h55/index.html",
+      "route": "#/product/podstavka-dlya-torta-1-yarus-250h55"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dlya-torta-1-yarus-300h150/",
+      "file": "product/podstavka-dlya-torta-1-yarus-300h150/index.html",
+      "route": "#/product/podstavka-dlya-torta-1-yarus-300h150"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dlya-torta-i-kapkejkov-4-yarusa-300h500h410/",
+      "file": "product/podstavka-dlya-torta-i-kapkejkov-4-yarusa-300h500h410/index.html",
+      "route": "#/product/podstavka-dlya-torta-i-kapkejkov-4-yarusa-300h500h410"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dlya-tsvetov-loft-1000h400h400/",
+      "file": "product/podstavka-dlya-tsvetov-loft-1000h400h400/index.html",
+      "route": "#/product/podstavka-dlya-tsvetov-loft-1000h400h400"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dlya-tsvetov-loft-2/",
+      "file": "product/podstavka-dlya-tsvetov-loft-2/index.html",
+      "route": "#/product/podstavka-dlya-tsvetov-loft-2"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dlya-tsvetov-loft/",
+      "file": "product/podstavka-dlya-tsvetov-loft/index.html",
+      "route": "#/product/podstavka-dlya-tsvetov-loft"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dlya-tsvetov-odinarnaya/",
+      "file": "product/podstavka-dlya-tsvetov-odinarnaya/index.html",
+      "route": "#/product/podstavka-dlya-tsvetov-odinarnaya"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dlya-ukrashenij-derevo/",
+      "file": "product/podstavka-dlya-ukrashenij-derevo/index.html",
+      "route": "#/product/podstavka-dlya-ukrashenij-derevo"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dlya-ukrashenij-lisa/",
+      "file": "product/podstavka-dlya-ukrashenij-lisa/index.html",
+      "route": "#/product/podstavka-dlya-ukrashenij-lisa"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-dlya-ukrashenij-sova/",
+      "file": "product/podstavka-dlya-ukrashenij-sova/index.html",
+      "route": "#/product/podstavka-dlya-ukrashenij-sova"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-familnoe-drevo/",
+      "file": "product/podstavka-familnoe-drevo/index.html",
+      "route": "#/product/podstavka-familnoe-drevo"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-pashalnoe-vederko-v-pokraske/",
+      "file": "product/podstavka-pashalnoe-vederko-v-pokraske/index.html",
+      "route": "#/product/podstavka-pashalnoe-vederko-v-pokraske"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-pashalnyj-hram/",
+      "file": "product/podstavka-pashalnyj-hram/index.html",
+      "route": "#/product/podstavka-pashalnyj-hram"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-pashalnyj-zayats/",
+      "file": "product/podstavka-pashalnyj-zayats/index.html",
+      "route": "#/product/podstavka-pashalnyj-zayats"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-pod-mobilnyj-telefon/",
+      "file": "product/podstavka-pod-mobilnyj-telefon/index.html",
+      "route": "#/product/podstavka-pod-mobilnyj-telefon"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-pod-sistemnyj-blok/",
+      "file": "product/podstavka-pod-sistemnyj-blok/index.html",
+      "route": "#/product/podstavka-pod-sistemnyj-blok"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-sani/",
+      "file": "product/podstavka-sani/index.html",
+      "route": "#/product/podstavka-sani"
+    },
+    {
+      "source": "https://ddn.by/product/podstavka-zajka-dlya-rezinok/",
+      "file": "product/podstavka-zajka-dlya-rezinok/index.html",
+      "route": "#/product/podstavka-zajka-dlya-rezinok"
+    },
+    {
+      "source": "https://ddn.by/product/podstole-dlya-zhurnalnogo-stola/",
+      "file": "product/podstole-dlya-zhurnalnogo-stola/index.html",
+      "route": "#/product/podstole-dlya-zhurnalnogo-stola"
+    },
+    {
+      "source": "https://ddn.by/product/podstole-metallicheskoe-2/",
+      "file": "product/podstole-metallicheskoe-2/index.html",
+      "route": "#/product/podstole-metallicheskoe-2"
+    },
+    {
+      "source": "https://ddn.by/product/podstole-metallicheskoe/",
+      "file": "product/podstole-metallicheskoe/index.html",
+      "route": "#/product/podstole-metallicheskoe"
+    },
+    {
+      "source": "https://ddn.by/product/podsvechnik-3-svechki/",
+      "file": "product/podsvechnik-3-svechki/index.html",
+      "route": "#/product/podsvechnik-3-svechki"
+    },
+    {
+      "source": "https://ddn.by/product/podushka-dekorativnaya/",
+      "file": "product/podushka-dekorativnaya/index.html",
+      "route": "#/product/podushka-dekorativnaya"
+    },
+    {
+      "source": "https://ddn.by/product/polka-2/",
+      "file": "product/polka-2/index.html",
+      "route": "#/product/polka-2"
+    },
+    {
+      "source": "https://ddn.by/product/polka-3/",
+      "file": "product/polka-3/index.html",
+      "route": "#/product/polka-3"
+    },
+    {
+      "source": "https://ddn.by/product/polka-dekorativnaya-den-noch/",
+      "file": "product/polka-dekorativnaya-den-noch/index.html",
+      "route": "#/product/polka-dekorativnaya-den-noch"
+    },
+    {
+      "source": "https://ddn.by/product/polka-dlya-obuvi/",
+      "file": "product/polka-dlya-obuvi/index.html",
+      "route": "#/product/polka-dlya-obuvi"
+    },
+    {
+      "source": "https://ddn.by/product/polka-kub-20x20/",
+      "file": "product/polka-kub-20x20/index.html",
+      "route": "#/product/polka-kub-20x20"
+    },
+    {
+      "source": "https://ddn.by/product/polka-kub-30x30/",
+      "file": "product/polka-kub-30x30/index.html",
+      "route": "#/product/polka-kub-30x30"
+    },
+    {
+      "source": "https://ddn.by/product/polka-loft-2/",
+      "file": "product/polka-loft-2/index.html",
+      "route": "#/product/polka-loft-2"
+    },
+    {
+      "source": "https://ddn.by/product/polka-loft-3/",
+      "file": "product/polka-loft-3/index.html",
+      "route": "#/product/polka-loft-3"
+    },
+    {
+      "source": "https://ddn.by/product/polka-loft/",
+      "file": "product/polka-loft/index.html",
+      "route": "#/product/polka-loft"
+    },
+    {
+      "source": "https://ddn.by/product/polka-nad-stolom/",
+      "file": "product/polka-nad-stolom/index.html",
+      "route": "#/product/polka-nad-stolom"
+    },
+    {
+      "source": "https://ddn.by/product/polka-napolnaya-iz-dsp/",
+      "file": "product/polka-napolnaya-iz-dsp/index.html",
+      "route": "#/product/polka-napolnaya-iz-dsp"
+    },
+    {
+      "source": "https://ddn.by/product/polka-napolnaya-loft-2/",
+      "file": "product/polka-napolnaya-loft-2/index.html",
+      "route": "#/product/polka-napolnaya-loft-2"
+    },
+    {
+      "source": "https://ddn.by/product/polka-napolnaya-loft/",
+      "file": "product/polka-napolnaya-loft/index.html",
+      "route": "#/product/polka-napolnaya-loft"
+    },
+    {
+      "source": "https://ddn.by/product/polka-nastennaya-loft-romb/",
+      "file": "product/polka-nastennaya-loft-romb/index.html",
+      "route": "#/product/polka-nastennaya-loft-romb"
+    },
+    {
+      "source": "https://ddn.by/product/polka-navesnaya/",
+      "file": "product/polka-navesnaya/index.html",
+      "route": "#/product/polka-navesnaya"
+    },
+    {
+      "source": "https://ddn.by/product/polka-pod-ikony-400-x-400-x-750/",
+      "file": "product/polka-pod-ikony-400-x-400-x-750/index.html",
+      "route": "#/product/polka-pod-ikony-400-x-400-x-750"
+    },
+    {
+      "source": "https://ddn.by/product/polka-pod-ikony-odinarnaya/",
+      "file": "product/polka-pod-ikony-odinarnaya/index.html",
+      "route": "#/product/polka-pod-ikony-odinarnaya"
+    },
+    {
+      "source": "https://ddn.by/product/polka-pod-ikony/",
+      "file": "product/polka-pod-ikony/index.html",
+      "route": "#/product/polka-pod-ikony"
+    },
+    {
+      "source": "https://ddn.by/product/polka-ramka-loft-2/",
+      "file": "product/polka-ramka-loft-2/index.html",
+      "route": "#/product/polka-ramka-loft-2"
+    },
+    {
+      "source": "https://ddn.by/product/polka-ramka-loft-3/",
+      "file": "product/polka-ramka-loft-3/index.html",
+      "route": "#/product/polka-ramka-loft-3"
+    },
+    {
+      "source": "https://ddn.by/product/polka-ramka-loft-4/",
+      "file": "product/polka-ramka-loft-4/index.html",
+      "route": "#/product/polka-ramka-loft-4"
+    },
+    {
+      "source": "https://ddn.by/product/polka-ramka-loft-5/",
+      "file": "product/polka-ramka-loft-5/index.html",
+      "route": "#/product/polka-ramka-loft-5"
+    },
+    {
+      "source": "https://ddn.by/product/polka-ramka-loft-6/",
+      "file": "product/polka-ramka-loft-6/index.html",
+      "route": "#/product/polka-ramka-loft-6"
+    },
+    {
+      "source": "https://ddn.by/product/polka-ramka-loft-7/",
+      "file": "product/polka-ramka-loft-7/index.html",
+      "route": "#/product/polka-ramka-loft-7"
+    },
+    {
+      "source": "https://ddn.by/product/polka-ramka-loft/",
+      "file": "product/polka-ramka-loft/index.html",
+      "route": "#/product/polka-ramka-loft"
+    },
+    {
+      "source": "https://ddn.by/product/polka-sobaka/",
+      "file": "product/polka-sobaka/index.html",
+      "route": "#/product/polka-sobaka"
+    },
+    {
+      "source": "https://ddn.by/product/polka-universal/",
+      "file": "product/polka-universal/index.html",
+      "route": "#/product/polka-universal"
+    },
+    {
+      "source": "https://ddn.by/product/polka/",
+      "file": "product/polka/index.html",
+      "route": "#/product/polka"
+    },
+    {
+      "source": "https://ddn.by/product/polukombinezon-muzhskoj-letnij-siti/",
+      "file": "product/polukombinezon-muzhskoj-letnij-siti/index.html",
+      "route": "#/product/polukombinezon-muzhskoj-letnij-siti"
+    },
+    {
+      "source": "https://ddn.by/product/polukombinezon-uteplennyj-403-18/",
+      "file": "product/polukombinezon-uteplennyj-403-18/index.html",
+      "route": "#/product/polukombinezon-uteplennyj-403-18"
+    },
+    {
+      "source": "https://ddn.by/product/polukombinezon-uteplennyj/",
+      "file": "product/polukombinezon-uteplennyj/index.html",
+      "route": "#/product/polukombinezon-uteplennyj"
+    },
+    {
+      "source": "https://ddn.by/product/polukombinezon-zhenskij-letnij-siti/",
+      "file": "product/polukombinezon-zhenskij-letnij-siti/index.html",
+      "route": "#/product/polukombinezon-zhenskij-letnij-siti"
+    },
+    {
+      "source": "https://ddn.by/product/prachechnaya/",
+      "file": "product/prachechnaya/index.html",
+      "route": "#/product/prachechnaya"
+    },
+    {
+      "source": "https://ddn.by/product/pridivannyj-stolik-iz-dsp/",
+      "file": "product/pridivannyj-stolik-iz-dsp/index.html",
+      "route": "#/product/pridivannyj-stolik-iz-dsp"
+    },
+    {
+      "source": "https://ddn.by/product/pridivannyj-stolik/",
+      "file": "product/pridivannyj-stolik/index.html",
+      "route": "#/product/pridivannyj-stolik"
+    },
+    {
+      "source": "https://ddn.by/product/pristavka-uglovogo-divana-dzhaz/",
+      "file": "product/pristavka-uglovogo-divana-dzhaz/index.html",
+      "route": "#/product/pristavka-uglovogo-divana-dzhaz"
+    },
+    {
+      "source": "https://ddn.by/product/pristavnoj-stolik-loft/",
+      "file": "product/pristavnoj-stolik-loft/index.html",
+      "route": "#/product/pristavnoj-stolik-loft"
+    },
+    {
+      "source": "https://ddn.by/product/puf-400-x-400/",
+      "file": "product/puf-400-x-400/index.html",
+      "route": "#/product/puf-400-x-400"
+    },
+    {
+      "source": "https://ddn.by/product/puf-butterfly/",
+      "file": "product/puf-butterfly/index.html",
+      "route": "#/product/puf-butterfly"
+    },
+    {
+      "source": "https://ddn.by/product/puf-chesterfild/",
+      "file": "product/puf-chesterfild/index.html",
+      "route": "#/product/puf-chesterfild"
+    },
+    {
+      "source": "https://ddn.by/product/puf-loft/",
+      "file": "product/puf-loft/index.html",
+      "route": "#/product/puf-loft"
+    },
+    {
+      "source": "https://ddn.by/product/puf-obrazets-sberbank/",
+      "file": "product/puf-obrazets-sberbank/index.html",
+      "route": "#/product/puf-obrazets-sberbank"
+    },
+    {
+      "source": "https://ddn.by/product/puf-s-kryshkoj/",
+      "file": "product/puf-s-kryshkoj/index.html",
+      "route": "#/product/puf-s-kryshkoj"
+    },
+    {
+      "source": "https://ddn.by/product/puf-skoba/",
+      "file": "product/puf-skoba/index.html",
+      "route": "#/product/puf-skoba"
+    },
+    {
+      "source": "https://ddn.by/product/puf/",
+      "file": "product/puf/index.html",
+      "route": "#/product/puf"
+    },
+    {
+      "source": "https://ddn.by/product/rabochaya-gruppa-stolov-1500/",
+      "file": "product/rabochaya-gruppa-stolov-1500/index.html",
+      "route": "#/product/rabochaya-gruppa-stolov-1500"
+    },
+    {
+      "source": "https://ddn.by/product/rabochaya-gruppa-stolov-1800/",
+      "file": "product/rabochaya-gruppa-stolov-1800/index.html",
+      "route": "#/product/rabochaya-gruppa-stolov-1800"
+    },
+    {
+      "source": "https://ddn.by/product/rabochaya-stantsiya-na-1-cheloveka-s-podvesnoj-truboj-2/",
+      "file": "product/rabochaya-stantsiya-na-1-cheloveka-s-podvesnoj-truboj-2/index.html",
+      "route": "#/product/rabochaya-stantsiya-na-1-cheloveka-s-podvesnoj-truboj-2"
+    },
+    {
+      "source": "https://ddn.by/product/rabochaya-stantsiya-na-1-cheloveka-s-podvesnoj-truboj-3/",
+      "file": "product/rabochaya-stantsiya-na-1-cheloveka-s-podvesnoj-truboj-3/index.html",
+      "route": "#/product/rabochaya-stantsiya-na-1-cheloveka-s-podvesnoj-truboj-3"
+    },
+    {
+      "source": "https://ddn.by/product/rabochaya-stantsiya-na-1-cheloveka-s-podvesnoj-truboj/",
+      "file": "product/rabochaya-stantsiya-na-1-cheloveka-s-podvesnoj-truboj/index.html",
+      "route": "#/product/rabochaya-stantsiya-na-1-cheloveka-s-podvesnoj-truboj"
+    },
+    {
+      "source": "https://ddn.by/product/rabochie-stantsii-na-2-cheloveka/",
+      "file": "product/rabochie-stantsii-na-2-cheloveka/index.html",
+      "route": "#/product/rabochie-stantsii-na-2-cheloveka"
+    },
+    {
+      "source": "https://ddn.by/product/radiusnyj-stellazh-dlya-knig-i-zhurnalov/",
+      "file": "product/radiusnyj-stellazh-dlya-knig-i-zhurnalov/index.html",
+      "route": "#/product/radiusnyj-stellazh-dlya-knig-i-zhurnalov"
+    },
+    {
+      "source": "https://ddn.by/product/rama-dlya-zerkala-loft/",
+      "file": "product/rama-dlya-zerkala-loft/index.html",
+      "route": "#/product/rama-dlya-zerkala-loft"
+    },
+    {
+      "source": "https://ddn.by/product/ramka-pod-foto-bolshaya/",
+      "file": "product/ramka-pod-foto-bolshaya/index.html",
+      "route": "#/product/ramka-pod-foto-bolshaya"
+    },
+    {
+      "source": "https://ddn.by/product/ramka-pod-foto-malenkaya/",
+      "file": "product/ramka-pod-foto-malenkaya/index.html",
+      "route": "#/product/ramka-pod-foto-malenkaya"
+    },
+    {
+      "source": "https://ddn.by/product/ramka-pod-foto-srednyaya/",
+      "file": "product/ramka-pod-foto-srednyaya/index.html",
+      "route": "#/product/ramka-pod-foto-srednyaya"
+    },
+    {
+      "source": "https://ddn.by/product/razvivayushhij-avtomobil-busycar/",
+      "file": "product/razvivayushhij-avtomobil-busycar/index.html",
+      "route": "#/product/razvivayushhij-avtomobil-busycar"
+    },
+    {
+      "source": "https://ddn.by/product/salfetnitsa-devushka-s-zontom/",
+      "file": "product/salfetnitsa-devushka-s-zontom/index.html",
+      "route": "#/product/salfetnitsa-devushka-s-zontom"
+    },
+    {
+      "source": "https://ddn.by/product/shahmatnaya-doska/",
+      "file": "product/shahmatnaya-doska/index.html",
+      "route": "#/product/shahmatnaya-doska"
+    },
+    {
+      "source": "https://ddn.by/product/shahmaty/",
+      "file": "product/shahmaty/index.html",
+      "route": "#/product/shahmaty"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-2/",
+      "file": "product/shkaf-2/index.html",
+      "route": "#/product/shkaf-2"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-3-h-dvernyj-dlya-odezhdy-v-holl/",
+      "file": "product/shkaf-3-h-dvernyj-dlya-odezhdy-v-holl/index.html",
+      "route": "#/product/shkaf-3-h-dvernyj-dlya-odezhdy-v-holl"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-3/",
+      "file": "product/shkaf-3/index.html",
+      "route": "#/product/shkaf-3"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-4/",
+      "file": "product/shkaf-4/index.html",
+      "route": "#/product/shkaf-4"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-5/",
+      "file": "product/shkaf-5/index.html",
+      "route": "#/product/shkaf-5"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-6/",
+      "file": "product/shkaf-6/index.html",
+      "route": "#/product/shkaf-6"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-2/",
+      "file": "product/shkaf-dlya-dokumentov-2/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-2"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-3/",
+      "file": "product/shkaf-dlya-dokumentov-3/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-3"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-4/",
+      "file": "product/shkaf-dlya-dokumentov-4/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-4"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-5/",
+      "file": "product/shkaf-dlya-dokumentov-5/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-5"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-6/",
+      "file": "product/shkaf-dlya-dokumentov-6/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-6"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-7/",
+      "file": "product/shkaf-dlya-dokumentov-7/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-7"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-8/",
+      "file": "product/shkaf-dlya-dokumentov-8/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-8"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-shkdok1-fg2-2-1/",
+      "file": "product/shkaf-dlya-dokumentov-shkdok1-fg2-2-1/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-shkdok1-fg2-2-1"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-shkdok2-fg2-4-1-2/",
+      "file": "product/shkaf-dlya-dokumentov-shkdok2-fg2-4-1-2/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-shkdok2-fg2-4-1-2"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-shkdok2-fg2-4-1/",
+      "file": "product/shkaf-dlya-dokumentov-shkdok2-fg2-4-1/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-shkdok2-fg2-4-1"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-shkdok2-fv-4-1/",
+      "file": "product/shkaf-dlya-dokumentov-shkdok2-fv-4-1/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-shkdok2-fv-4-1"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-shkdok2-fv2-4-1-2/",
+      "file": "product/shkaf-dlya-dokumentov-shkdok2-fv2-4-1-2/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-shkdok2-fv2-4-1-2"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-shkdok2-fv2-4-1/",
+      "file": "product/shkaf-dlya-dokumentov-shkdok2-fv2-4-1/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-shkdok2-fv2-4-1"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-shkdok2-fv2-4-2z/",
+      "file": "product/shkaf-dlya-dokumentov-shkdok2-fv2-4-2z/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-shkdok2-fv2-4-2z"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-shkdok2-fv2sz-4-1/",
+      "file": "product/shkaf-dlya-dokumentov-shkdok2-fv2sz-4-1/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-shkdok2-fv2sz-4-1"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-shkdok2-p-4-1/",
+      "file": "product/shkaf-dlya-dokumentov-shkdok2-p-4-1/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-shkdok2-p-4-1"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-shkdok3-sr019-400/",
+      "file": "product/shkaf-dlya-dokumentov-shkdok3-sr019-400/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-shkdok3-sr019-400"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-shkdok3-sr022-500/",
+      "file": "product/shkaf-dlya-dokumentov-shkdok3-sr022-500/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-shkdok3-sr022-500"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-shkdok4-fv4-4-1/",
+      "file": "product/shkaf-dlya-dokumentov-shkdok4-fv4-4-1/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-shkdok4-fv4-4-1"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-shkdok7-fv1-4-1/",
+      "file": "product/shkaf-dlya-dokumentov-shkdok7-fv1-4-1/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-shkdok7-fv1-4-1"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-shkdok7-fv1-5/",
+      "file": "product/shkaf-dlya-dokumentov-shkdok7-fv1-5/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-shkdok7-fv1-5"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov-so-steklom-vip/",
+      "file": "product/shkaf-dlya-dokumentov-so-steklom-vip/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov-so-steklom-vip"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-dokumentov/",
+      "file": "product/shkaf-dlya-dokumentov/index.html",
+      "route": "#/product/shkaf-dlya-dokumentov"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-hraneniya/",
+      "file": "product/shkaf-dlya-hraneniya/index.html",
+      "route": "#/product/shkaf-dlya-hraneniya"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-odezhdy-2/",
+      "file": "product/shkaf-dlya-odezhdy-2/index.html",
+      "route": "#/product/shkaf-dlya-odezhdy-2"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-odezhdy-3/",
+      "file": "product/shkaf-dlya-odezhdy-3/index.html",
+      "route": "#/product/shkaf-dlya-odezhdy-3"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-odezhdy-i-dokumentov/",
+      "file": "product/shkaf-dlya-odezhdy-i-dokumentov/index.html",
+      "route": "#/product/shkaf-dlya-odezhdy-i-dokumentov"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-odezhdy-s-polkami-2/",
+      "file": "product/shkaf-dlya-odezhdy-s-polkami-2/index.html",
+      "route": "#/product/shkaf-dlya-odezhdy-s-polkami-2"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-odezhdy-s-polkami-3/",
+      "file": "product/shkaf-dlya-odezhdy-s-polkami-3/index.html",
+      "route": "#/product/shkaf-dlya-odezhdy-s-polkami-3"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-odezhdy-s-polkami/",
+      "file": "product/shkaf-dlya-odezhdy-s-polkami/index.html",
+      "route": "#/product/shkaf-dlya-odezhdy-s-polkami"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-odezhdy-shkod1-2/",
+      "file": "product/shkaf-dlya-odezhdy-shkod1-2/index.html",
+      "route": "#/product/shkaf-dlya-odezhdy-shkod1-2"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-odezhdy-shkod2-1/",
+      "file": "product/shkaf-dlya-odezhdy-shkod2-1/index.html",
+      "route": "#/product/shkaf-dlya-odezhdy-shkod2-1"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-odezhdy-shkod3-1/",
+      "file": "product/shkaf-dlya-odezhdy-shkod3-1/index.html",
+      "route": "#/product/shkaf-dlya-odezhdy-shkod3-1"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-odezhdy-shkod4-1/",
+      "file": "product/shkaf-dlya-odezhdy-shkod4-1/index.html",
+      "route": "#/product/shkaf-dlya-odezhdy-shkod4-1"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-odezhdy-shkod6-1-2/",
+      "file": "product/shkaf-dlya-odezhdy-shkod6-1-2/index.html",
+      "route": "#/product/shkaf-dlya-odezhdy-shkod6-1-2"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-odezhdy-shkod6-1/",
+      "file": "product/shkaf-dlya-odezhdy-shkod6-1/index.html",
+      "route": "#/product/shkaf-dlya-odezhdy-shkod6-1"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-odezhdy-shkod7-1/",
+      "file": "product/shkaf-dlya-odezhdy-shkod7-1/index.html",
+      "route": "#/product/shkaf-dlya-odezhdy-shkod7-1"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-odezhdy/",
+      "file": "product/shkaf-dlya-odezhdy/index.html",
+      "route": "#/product/shkaf-dlya-odezhdy"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-reklamy-i-dokumentov-shkdok-rekl2-1/",
+      "file": "product/shkaf-dlya-reklamy-i-dokumentov-shkdok-rekl2-1/index.html",
+      "route": "#/product/shkaf-dlya-reklamy-i-dokumentov-shkdok-rekl2-1"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-stulev-shkinv1-1/",
+      "file": "product/shkaf-dlya-stulev-shkinv1-1/index.html",
+      "route": "#/product/shkaf-dlya-stulev-shkinv1-1"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-dlya-suvenirnoj-produktsii-shksuv1-1/",
+      "file": "product/shkaf-dlya-suvenirnoj-produktsii-shksuv1-1/index.html",
+      "route": "#/product/shkaf-dlya-suvenirnoj-produktsii-shksuv1-1"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-garderobnyj-600h1830h480/",
+      "file": "product/shkaf-garderobnyj-600h1830h480/index.html",
+      "route": "#/product/shkaf-garderobnyj-600h1830h480"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-garderobnyj/",
+      "file": "product/shkaf-garderobnyj/index.html",
+      "route": "#/product/shkaf-garderobnyj"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-kombinirovannyj-2/",
+      "file": "product/shkaf-kombinirovannyj-2/index.html",
+      "route": "#/product/shkaf-kombinirovannyj-2"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-kombinirovannyj-3/",
+      "file": "product/shkaf-kombinirovannyj-3/index.html",
+      "route": "#/product/shkaf-kombinirovannyj-3"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-kombinirovannyj-s-mojkoj/",
+      "file": "product/shkaf-kombinirovannyj-s-mojkoj/index.html",
+      "route": "#/product/shkaf-kombinirovannyj-s-mojkoj"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-kombinirovannyj-v-zonu-otdyha/",
+      "file": "product/shkaf-kombinirovannyj-v-zonu-otdyha/index.html",
+      "route": "#/product/shkaf-kombinirovannyj-v-zonu-otdyha"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-kombinirovannyj/",
+      "file": "product/shkaf-kombinirovannyj/index.html",
+      "route": "#/product/shkaf-kombinirovannyj"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-kupe-2/",
+      "file": "product/shkaf-kupe-2/index.html",
+      "route": "#/product/shkaf-kupe-2"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-kupe-3/",
+      "file": "product/shkaf-kupe-3/index.html",
+      "route": "#/product/shkaf-kupe-3"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-kupe-4/",
+      "file": "product/shkaf-kupe-4/index.html",
+      "route": "#/product/shkaf-kupe-4"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-kupe-5/",
+      "file": "product/shkaf-kupe-5/index.html",
+      "route": "#/product/shkaf-kupe-5"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-kupe-6/",
+      "file": "product/shkaf-kupe-6/index.html",
+      "route": "#/product/shkaf-kupe-6"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-kupe/",
+      "file": "product/shkaf-kupe/index.html",
+      "route": "#/product/shkaf-kupe"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-modulnyj-2050h2050h570/",
+      "file": "product/shkaf-modulnyj-2050h2050h570/index.html",
+      "route": "#/product/shkaf-modulnyj-2050h2050h570"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-penal-dlya-dokumentov-710h2050h486/",
+      "file": "product/shkaf-penal-dlya-dokumentov-710h2050h486/index.html",
+      "route": "#/product/shkaf-penal-dlya-dokumentov-710h2050h486"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-penal/",
+      "file": "product/shkaf-penal/index.html",
+      "route": "#/product/shkaf-penal"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-platyanoj/",
+      "file": "product/shkaf-platyanoj/index.html",
+      "route": "#/product/shkaf-platyanoj"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-trenchkok-mentolovyj-dym-1200h2000h500/",
+      "file": "product/shkaf-trenchkok-mentolovyj-dym-1200h2000h500/index.html",
+      "route": "#/product/shkaf-trenchkok-mentolovyj-dym-1200h2000h500"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-v-detskuyu/",
+      "file": "product/shkaf-v-detskuyu/index.html",
+      "route": "#/product/shkaf-v-detskuyu"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-v-nishu/",
+      "file": "product/shkaf-v-nishu/index.html",
+      "route": "#/product/shkaf-v-nishu"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-v-prihozhuyu/",
+      "file": "product/shkaf-v-prihozhuyu/index.html",
+      "route": "#/product/shkaf-v-prihozhuyu"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-vitrina/",
+      "file": "product/shkaf-vitrina/index.html",
+      "route": "#/product/shkaf-vitrina"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf-zashivka-kommunikatsij/",
+      "file": "product/shkaf-zashivka-kommunikatsij/index.html",
+      "route": "#/product/shkaf-zashivka-kommunikatsij"
+    },
+    {
+      "source": "https://ddn.by/product/shkaf/",
+      "file": "product/shkaf/index.html",
+      "route": "#/product/shkaf"
+    },
+    {
+      "source": "https://ddn.by/product/shkatulka-8-marta/",
+      "file": "product/shkatulka-8-marta/index.html",
+      "route": "#/product/shkatulka-8-marta"
+    },
+    {
+      "source": "https://ddn.by/product/shkatulka-dlya-sberezhenij-fanera/",
+      "file": "product/shkatulka-dlya-sberezhenij-fanera/index.html",
+      "route": "#/product/shkatulka-dlya-sberezhenij-fanera"
+    },
+    {
+      "source": "https://ddn.by/product/shkatulka-kinder-syurpriz/",
+      "file": "product/shkatulka-kinder-syurpriz/index.html",
+      "route": "#/product/shkatulka-kinder-syurpriz"
+    },
+    {
+      "source": "https://ddn.by/product/shkatulka-larets/",
+      "file": "product/shkatulka-larets/index.html",
+      "route": "#/product/shkatulka-larets"
+    },
+    {
+      "source": "https://ddn.by/product/shkatulka-s-otsekami/",
+      "file": "product/shkatulka-s-otsekami/index.html",
+      "route": "#/product/shkatulka-s-otsekami"
+    },
+    {
+      "source": "https://ddn.by/product/shkatulka-serdtse-mini-fanera-dekupazh/",
+      "file": "product/shkatulka-serdtse-mini-fanera-dekupazh/index.html",
+      "route": "#/product/shkatulka-serdtse-mini-fanera-dekupazh"
+    },
+    {
+      "source": "https://ddn.by/product/shkatulka-serdtse-mini/",
+      "file": "product/shkatulka-serdtse-mini/index.html",
+      "route": "#/product/shkatulka-serdtse-mini"
+    },
+    {
+      "source": "https://ddn.by/product/shkatulka-snegovik/",
+      "file": "product/shkatulka-snegovik/index.html",
+      "route": "#/product/shkatulka-snegovik"
+    },
+    {
+      "source": "https://ddn.by/product/shkatulka-svadebnaya-kazna-dlya-deneg/",
+      "file": "product/shkatulka-svadebnaya-kazna-dlya-deneg/index.html",
+      "route": "#/product/shkatulka-svadebnaya-kazna-dlya-deneg"
+    },
+    {
+      "source": "https://ddn.by/product/shkatulka-tsvetok/",
+      "file": "product/shkatulka-tsvetok/index.html",
+      "route": "#/product/shkatulka-tsvetok"
+    },
+    {
+      "source": "https://ddn.by/product/shkatulka-vintazh-mini/",
+      "file": "product/shkatulka-vintazh-mini/index.html",
+      "route": "#/product/shkatulka-vintazh-mini"
+    },
+    {
+      "source": "https://ddn.by/product/shkatulka-vintazh/",
+      "file": "product/shkatulka-vintazh/index.html",
+      "route": "#/product/shkatulka-vintazh"
+    },
+    {
+      "source": "https://ddn.by/product/shkatulka-zvezda/",
+      "file": "product/shkatulka-zvezda/index.html",
+      "route": "#/product/shkatulka-zvezda"
+    },
+    {
+      "source": "https://ddn.by/product/skamya-ulichnaya-radiusnaya/",
+      "file": "product/skamya-ulichnaya-radiusnaya/index.html",
+      "route": "#/product/skamya-ulichnaya-radiusnaya"
+    },
+    {
+      "source": "https://ddn.by/product/skamya/",
+      "file": "product/skamya/index.html",
+      "route": "#/product/skamya"
+    },
+    {
+      "source": "https://ddn.by/product/snezhinka-iz-fanery-ral-belyj/",
+      "file": "product/snezhinka-iz-fanery-ral-belyj/index.html",
+      "route": "#/product/snezhinka-iz-fanery-ral-belyj"
+    },
+    {
+      "source": "https://ddn.by/product/soputstvuyushhie-tovary/",
+      "file": "product/soputstvuyushhie-tovary/index.html",
+      "route": "#/product/soputstvuyushhie-tovary"
+    },
+    {
+      "source": "https://ddn.by/product/spalnya-devochki/",
+      "file": "product/spalnya-devochki/index.html",
+      "route": "#/product/spalnya-devochki"
+    },
+    {
+      "source": "https://ddn.by/product/spalnya-malchika/",
+      "file": "product/spalnya-malchika/index.html",
+      "route": "#/product/spalnya-malchika"
+    },
+    {
+      "source": "https://ddn.by/product/sportivnaya-pnevmaticheskaya-vintovka-plisa-c111/",
+      "file": "product/sportivnaya-pnevmaticheskaya-vintovka-plisa-c111/index.html",
+      "route": "#/reference"
+    },
+    {
+      "source": "https://ddn.by/product/stellazh-2/",
+      "file": "product/stellazh-2/index.html",
+      "route": "#/product/stellazh-2"
+    },
+    {
+      "source": "https://ddn.by/product/stellazh-3/",
+      "file": "product/stellazh-3/index.html",
+      "route": "#/product/stellazh-3"
+    },
+    {
+      "source": "https://ddn.by/product/stellazh-dlya-dokumentov/",
+      "file": "product/stellazh-dlya-dokumentov/index.html",
+      "route": "#/product/stellazh-dlya-dokumentov"
+    },
+    {
+      "source": "https://ddn.by/product/stellazh-dlya-sortirovki/",
+      "file": "product/stellazh-dlya-sortirovki/index.html",
+      "route": "#/product/stellazh-dlya-sortirovki"
+    },
+    {
+      "source": "https://ddn.by/product/stellazh-hraneniya-komplektuyushhih/",
+      "file": "product/stellazh-hraneniya-komplektuyushhih/index.html",
+      "route": "#/product/stellazh-hraneniya-komplektuyushhih"
+    },
+    {
+      "source": "https://ddn.by/product/stellazh-hraneniya-provodov/",
+      "file": "product/stellazh-hraneniya-provodov/index.html",
+      "route": "#/product/stellazh-hraneniya-provodov"
+    },
+    {
+      "source": "https://ddn.by/product/stellazh-loft-v-vannuyu/",
+      "file": "product/stellazh-loft-v-vannuyu/index.html",
+      "route": "#/product/stellazh-loft-v-vannuyu"
+    },
+    {
+      "source": "https://ddn.by/product/stellazh/",
+      "file": "product/stellazh/index.html",
+      "route": "#/product/stellazh"
+    },
+    {
+      "source": "https://ddn.by/product/stellazhi-sektsionnye/",
+      "file": "product/stellazhi-sektsionnye/index.html",
+      "route": "#/product/stellazhi-sektsionnye"
+    },
+    {
+      "source": "https://ddn.by/product/stenka-dlya-igrushek/",
+      "file": "product/stenka-dlya-igrushek/index.html",
+      "route": "#/product/stenka-dlya-igrushek"
+    },
+    {
+      "source": "https://ddn.by/product/stojka-dlya-kapsul/",
+      "file": "product/stojka-dlya-kapsul/index.html",
+      "route": "#/product/stojka-dlya-kapsul"
+    },
+    {
+      "source": "https://ddn.by/product/stol-2/",
+      "file": "product/stol-2/index.html",
+      "route": "#/product/stol-2"
+    },
+    {
+      "source": "https://ddn.by/product/stol-3/",
+      "file": "product/stol-3/index.html",
+      "route": "#/product/stol-3"
+    },
+    {
+      "source": "https://ddn.by/product/stol-barnyj-iz-dsp/",
+      "file": "product/stol-barnyj-iz-dsp/index.html",
+      "route": "#/product/stol-barnyj-iz-dsp"
+    },
+    {
+      "source": "https://ddn.by/product/stol-dlya-dosmotra/",
+      "file": "product/stol-dlya-dosmotra/index.html",
+      "route": "#/product/stol-dlya-dosmotra"
+    },
+    {
+      "source": "https://ddn.by/product/stol-dlya-kollaboratsii/",
+      "file": "product/stol-dlya-kollaboratsii/index.html",
+      "route": "#/product/stol-dlya-kollaboratsii"
+    },
+    {
+      "source": "https://ddn.by/product/stol-dlya-ohrany/",
+      "file": "product/stol-dlya-ohrany/index.html",
+      "route": "#/product/stol-dlya-ohrany"
+    },
+    {
+      "source": "https://ddn.by/product/stol-dlya-posetitelej-800-600-600/",
+      "file": "product/stol-dlya-posetitelej-800-600-600/index.html",
+      "route": "#/product/stol-dlya-posetitelej-800-600-600"
+    },
+    {
+      "source": "https://ddn.by/product/stol-dlya-registratsii-1806-1100-810/",
+      "file": "product/stol-dlya-registratsii-1806-1100-810/index.html",
+      "route": "#/product/stol-dlya-registratsii-1806-1100-810"
+    },
+    {
+      "source": "https://ddn.by/product/stol-dlya-registratsii-1810h1100h810/",
+      "file": "product/stol-dlya-registratsii-1810h1100h810/index.html",
+      "route": "#/product/stol-dlya-registratsii-1810h1100h810"
+    },
+    {
+      "source": "https://ddn.by/product/stol-dsp-18mm/",
+      "file": "product/stol-dsp-18mm/index.html",
+      "route": "#/product/stol-dsp-18mm"
+    },
+    {
+      "source": "https://ddn.by/product/stol-kalejdoskop/",
+      "file": "product/stol-kalejdoskop/index.html",
+      "route": "#/product/stol-kalejdoskop"
+    },
+    {
+      "source": "https://ddn.by/product/stol-kniga/",
+      "file": "product/stol-kniga/index.html",
+      "route": "#/product/stol-kniga"
+    },
+    {
+      "source": "https://ddn.by/product/stol-kofejnyj/",
+      "file": "product/stol-kofejnyj/index.html",
+      "route": "#/product/stol-kofejnyj"
+    },
+    {
+      "source": "https://ddn.by/product/stol-konsol-razdvizhnoj/",
+      "file": "product/stol-konsol-razdvizhnoj/index.html",
+      "route": "#/product/stol-konsol-razdvizhnoj"
+    },
+    {
+      "source": "https://ddn.by/product/stol-kruglyj-800h600/",
+      "file": "product/stol-kruglyj-800h600/index.html",
+      "route": "#/product/stol-kruglyj-800h600"
+    },
+    {
+      "source": "https://ddn.by/product/stol-loft-3/",
+      "file": "product/stol-loft-3/index.html",
+      "route": "#/product/stol-loft-3"
+    },
+    {
+      "source": "https://ddn.by/product/stol-loft-4/",
+      "file": "product/stol-loft-4/index.html",
+      "route": "#/product/stol-loft-4"
+    },
+    {
+      "source": "https://ddn.by/product/stol-loft/",
+      "file": "product/stol-loft/index.html",
+      "route": "#/product/stol-loft"
+    },
+    {
+      "source": "https://ddn.by/product/stol-mastera-uchastka/",
+      "file": "product/stol-mastera-uchastka/index.html",
+      "route": "#/product/stol-mastera-uchastka"
+    },
+    {
+      "source": "https://ddn.by/product/stol-na-2-rabochih-mesta-s-2-mya-podkatnymi-tumbami/",
+      "file": "product/stol-na-2-rabochih-mesta-s-2-mya-podkatnymi-tumbami/index.html",
+      "route": "#/product/stol-na-2-rabochih-mesta-s-2-mya-podkatnymi-tumbami"
+    },
+    {
+      "source": "https://ddn.by/product/stol-obedennyj-2/",
+      "file": "product/stol-obedennyj-2/index.html",
+      "route": "#/product/stol-obedennyj-2"
+    },
+    {
+      "source": "https://ddn.by/product/stol-obedennyj-3/",
+      "file": "product/stol-obedennyj-3/index.html",
+      "route": "#/product/stol-obedennyj-3"
+    },
+    {
+      "source": "https://ddn.by/product/stol-obedennyj-loft/",
+      "file": "product/stol-obedennyj-loft/index.html",
+      "route": "#/product/stol-obedennyj-loft"
+    },
+    {
+      "source": "https://ddn.by/product/stol-obedennyj/",
+      "file": "product/stol-obedennyj/index.html",
+      "route": "#/product/stol-obedennyj"
+    },
+    {
+      "source": "https://ddn.by/product/stol-optima-1500-2/",
+      "file": "product/stol-optima-1500-2/index.html",
+      "route": "#/product/stol-optima-1500-2"
+    },
+    {
+      "source": "https://ddn.by/product/stol-optima-1500/",
+      "file": "product/stol-optima-1500/index.html",
+      "route": "#/product/stol-optima-1500"
+    },
+    {
+      "source": "https://ddn.by/product/stol-optima-1800-uglovoj/",
+      "file": "product/stol-optima-1800-uglovoj/index.html",
+      "route": "#/product/stol-optima-1800-uglovoj"
+    },
+    {
+      "source": "https://ddn.by/product/stol-optima-1800/",
+      "file": "product/stol-optima-1800/index.html",
+      "route": "#/product/stol-optima-1800"
+    },
+    {
+      "source": "https://ddn.by/product/stol-ovalnyj/",
+      "file": "product/stol-ovalnyj/index.html",
+      "route": "#/product/stol-ovalnyj"
+    },
+    {
+      "source": "https://ddn.by/product/stol-pismennyj-2/",
+      "file": "product/stol-pismennyj-2/index.html",
+      "route": "#/product/stol-pismennyj-2"
+    },
+    {
+      "source": "https://ddn.by/product/stol-pismennyj-3/",
+      "file": "product/stol-pismennyj-3/index.html",
+      "route": "#/product/stol-pismennyj-3"
+    },
+    {
+      "source": "https://ddn.by/product/stol-pismennyj-4/",
+      "file": "product/stol-pismennyj-4/index.html",
+      "route": "#/product/stol-pismennyj-4"
+    },
+    {
+      "source": "https://ddn.by/product/stol-pismennyj-5/",
+      "file": "product/stol-pismennyj-5/index.html",
+      "route": "#/product/stol-pismennyj-5"
+    },
+    {
+      "source": "https://ddn.by/product/stol-pismennyj-6/",
+      "file": "product/stol-pismennyj-6/index.html",
+      "route": "#/product/stol-pismennyj-6"
+    },
+    {
+      "source": "https://ddn.by/product/stol-pismennyj-7/",
+      "file": "product/stol-pismennyj-7/index.html",
+      "route": "#/product/stol-pismennyj-7"
+    },
+    {
+      "source": "https://ddn.by/product/stol-pismennyj-loft-2/",
+      "file": "product/stol-pismennyj-loft-2/index.html",
+      "route": "#/product/stol-pismennyj-loft-2"
+    },
+    {
+      "source": "https://ddn.by/product/stol-pismennyj-s-pristavkoj-i-tumboj-2025h760h3300/",
+      "file": "product/stol-pismennyj-s-pristavkoj-i-tumboj-2025h760h3300/index.html",
+      "route": "#/product/stol-pismennyj-s-pristavkoj-i-tumboj-2025h760h3300"
+    },
+    {
+      "source": "https://ddn.by/product/stol-pismennyj-s-pristavkoj/",
+      "file": "product/stol-pismennyj-s-pristavkoj/index.html",
+      "route": "#/product/stol-pismennyj-s-pristavkoj"
+    },
+    {
+      "source": "https://ddn.by/product/stol-pismennyj/",
+      "file": "product/stol-pismennyj/index.html",
+      "route": "#/product/stol-pismennyj"
+    },
+    {
+      "source": "https://ddn.by/product/stol-podnos-raskladnoj/",
+      "file": "product/stol-podnos-raskladnoj/index.html",
+      "route": "#/product/stol-podnos-raskladnoj"
+    },
+    {
+      "source": "https://ddn.by/product/stol-pristavnoj-2/",
+      "file": "product/stol-pristavnoj-2/index.html",
+      "route": "#/product/stol-pristavnoj-2"
+    },
+    {
+      "source": "https://ddn.by/product/stol-pristavnoj-loft/",
+      "file": "product/stol-pristavnoj-loft/index.html",
+      "route": "#/product/stol-pristavnoj-loft"
+    },
+    {
+      "source": "https://ddn.by/product/stol-pristavnoj/",
+      "file": "product/stol-pristavnoj/index.html",
+      "route": "#/product/stol-pristavnoj"
+    },
+    {
+      "source": "https://ddn.by/product/stol-reseptsiya/",
+      "file": "product/stol-reseptsiya/index.html",
+      "route": "#/product/stol-reseptsiya"
+    },
+    {
+      "source": "https://ddn.by/product/stol-rukovoditelya-s-pristavkoj-i-tumboj/",
+      "file": "product/stol-rukovoditelya-s-pristavkoj-i-tumboj/index.html",
+      "route": "#/product/stol-rukovoditelya-s-pristavkoj-i-tumboj"
+    },
+    {
+      "source": "https://ddn.by/product/stol-rukovoditelya/",
+      "file": "product/stol-rukovoditelya/index.html",
+      "route": "#/product/stol-rukovoditelya"
+    },
+    {
+      "source": "https://ddn.by/product/stol-so-stoleshnitsej-iz-epoksidnoj-smoly-zelyonyj/",
+      "file": "product/stol-so-stoleshnitsej-iz-epoksidnoj-smoly-zelyonyj/index.html",
+      "route": "#/product/stol-so-stoleshnitsej-iz-epoksidnoj-smoly-zelyonyj"
+    },
+    {
+      "source": "https://ddn.by/product/stol-so-stoleshnitsej-iz-epoksidnoj-smoly/",
+      "file": "product/stol-so-stoleshnitsej-iz-epoksidnoj-smoly/index.html",
+      "route": "#/product/stol-so-stoleshnitsej-iz-epoksidnoj-smoly"
+    },
+    {
+      "source": "https://ddn.by/product/stol-stellazh-komplektovaniya/",
+      "file": "product/stol-stellazh-komplektovaniya/index.html",
+      "route": "#/product/stol-stellazh-komplektovaniya"
+    },
+    {
+      "source": "https://ddn.by/product/stol-telezhka-optima-850-k/",
+      "file": "product/stol-telezhka-optima-850-k/index.html",
+      "route": "#/product/stol-telezhka-optima-850-k"
+    },
+    {
+      "source": "https://ddn.by/product/stol-telezhka/",
+      "file": "product/stol-telezhka/index.html",
+      "route": "#/product/stol-telezhka"
+    },
+    {
+      "source": "https://ddn.by/product/stol-uglovoj-2/",
+      "file": "product/stol-uglovoj-2/index.html",
+      "route": "#/product/stol-uglovoj-2"
+    },
+    {
+      "source": "https://ddn.by/product/stol-uglovoj-3/",
+      "file": "product/stol-uglovoj-3/index.html",
+      "route": "#/product/stol-uglovoj-3"
+    },
+    {
+      "source": "https://ddn.by/product/stol-uglovoj/",
+      "file": "product/stol-uglovoj/index.html",
+      "route": "#/product/stol-uglovoj"
+    },
+    {
+      "source": "https://ddn.by/product/stol-zhurnalnyj-loft-kub/",
+      "file": "product/stol-zhurnalnyj-loft-kub/index.html",
+      "route": "#/product/stol-zhurnalnyj-loft-kub"
+    },
+    {
+      "source": "https://ddn.by/product/stol-zhurnalnyj/",
+      "file": "product/stol-zhurnalnyj/index.html",
+      "route": "#/product/stol-zhurnalnyj"
+    },
+    {
+      "source": "https://ddn.by/product/stol/",
+      "file": "product/stol/index.html",
+      "route": "#/product/stol"
+    },
+    {
+      "source": "https://ddn.by/product/stolik-kruglyj-pridivannyj/",
+      "file": "product/stolik-kruglyj-pridivannyj/index.html",
+      "route": "#/product/stolik-kruglyj-pridivannyj"
+    },
+    {
+      "source": "https://ddn.by/product/stolik-zhurnalnyj-kruglyj/",
+      "file": "product/stolik-zhurnalnyj-kruglyj/index.html",
+      "route": "#/product/stolik-zhurnalnyj-kruglyj"
+    },
+    {
+      "source": "https://ddn.by/product/stolik-zhurnalnyj/",
+      "file": "product/stolik-zhurnalnyj/index.html",
+      "route": "#/product/stolik-zhurnalnyj"
+    },
+    {
+      "source": "https://ddn.by/product/stul-barnyj-loft-2/",
+      "file": "product/stul-barnyj-loft-2/index.html",
+      "route": "#/product/stul-barnyj-loft-2"
+    },
+    {
+      "source": "https://ddn.by/product/stul-barnyj-loft-950/",
+      "file": "product/stul-barnyj-loft-950/index.html",
+      "route": "#/product/stul-barnyj-loft-950"
+    },
+    {
+      "source": "https://ddn.by/product/stul-barnyj-loft-s-myagkoj-sidushkoj/",
+      "file": "product/stul-barnyj-loft-s-myagkoj-sidushkoj/index.html",
+      "route": "#/product/stul-barnyj-loft-s-myagkoj-sidushkoj"
+    },
+    {
+      "source": "https://ddn.by/product/stul-barnyj-loft/",
+      "file": "product/stul-barnyj-loft/index.html",
+      "route": "#/product/stul-barnyj-loft"
+    },
+    {
+      "source": "https://ddn.by/product/stul-berloni/",
+      "file": "product/stul-berloni/index.html",
+      "route": "#/product/stul-berloni"
+    },
+    {
+      "source": "https://ddn.by/product/stul-kruglyj-loft/",
+      "file": "product/stul-kruglyj-loft/index.html",
+      "route": "#/product/stul-kruglyj-loft"
+    },
+    {
+      "source": "https://ddn.by/product/stul-polubarnyj-loft-2/",
+      "file": "product/stul-polubarnyj-loft-2/index.html",
+      "route": "#/product/stul-polubarnyj-loft-2"
+    },
+    {
+      "source": "https://ddn.by/product/stul-s-myagkoj-spinkoj-2/",
+      "file": "product/stul-s-myagkoj-spinkoj-2/index.html",
+      "route": "#/product/stul-s-myagkoj-spinkoj-2"
+    },
+    {
+      "source": "https://ddn.by/product/stul-taburet-400h450h400/",
+      "file": "product/stul-taburet-400h450h400/index.html",
+      "route": "#/product/stul-taburet-400h450h400"
+    },
+    {
+      "source": "https://ddn.by/product/stulya-detskie/",
+      "file": "product/stulya-detskie/index.html",
+      "route": "#/product/stulya-detskie"
+    },
+    {
+      "source": "https://ddn.by/product/sumka-avoska/",
+      "file": "product/sumka-avoska/index.html",
+      "route": "#/product/sumka-avoska"
+    },
+    {
+      "source": "https://ddn.by/product/sumka-iz-fanery-s-novym-godom/",
+      "file": "product/sumka-iz-fanery-s-novym-godom/index.html",
+      "route": "#/product/sumka-iz-fanery-s-novym-godom"
+    },
+    {
+      "source": "https://ddn.by/product/sumka-medved/",
+      "file": "product/sumka-medved/index.html",
+      "route": "#/product/sumka-medved"
+    },
+    {
+      "source": "https://ddn.by/product/sumka-novogodnyaya/",
+      "file": "product/sumka-novogodnyaya/index.html",
+      "route": "#/product/sumka-novogodnyaya"
+    },
+    {
+      "source": "https://ddn.by/product/sumka-shoper/",
+      "file": "product/sumka-shoper/index.html",
+      "route": "#/product/sumka-shoper"
+    },
+    {
+      "source": "https://ddn.by/product/sumka-shtany-kamuflyazh/",
+      "file": "product/sumka-shtany-kamuflyazh/index.html",
+      "route": "#/product/sumka-shtany-kamuflyazh"
+    },
+    {
+      "source": "https://ddn.by/product/sumka-upakovochnaya-iz-parusiny/",
+      "file": "product/sumka-upakovochnaya-iz-parusiny/index.html",
+      "route": "#/product/sumka-upakovochnaya-iz-parusiny"
+    },
+    {
+      "source": "https://ddn.by/product/suvenir-chajnyj-domik-fanera-emal/",
+      "file": "product/suvenir-chajnyj-domik-fanera-emal/index.html",
+      "route": "#/product/suvenir-chajnyj-domik-fanera-emal"
+    },
+    {
+      "source": "https://ddn.by/product/suvenir-chajnyj-domik-fanera-v-lake/",
+      "file": "product/suvenir-chajnyj-domik-fanera-v-lake/index.html",
+      "route": "#/product/suvenir-chajnyj-domik-fanera-v-lake"
+    },
+    {
+      "source": "https://ddn.by/product/suvenir-chajnyj-domik-fanera/",
+      "file": "product/suvenir-chajnyj-domik-fanera/index.html",
+      "route": "#/product/suvenir-chajnyj-domik-fanera"
+    },
+    {
+      "source": "https://ddn.by/product/suvenir-delo-23/",
+      "file": "product/suvenir-delo-23/index.html",
+      "route": "#/product/suvenir-delo-23"
+    },
+    {
+      "source": "https://ddn.by/product/suvenir-korobka-kalendar/",
+      "file": "product/suvenir-korobka-kalendar/index.html",
+      "route": "#/product/suvenir-korobka-kalendar"
+    },
+    {
+      "source": "https://ddn.by/product/suvenir-nozhka/",
+      "file": "product/suvenir-nozhka/index.html",
+      "route": "#/product/suvenir-nozhka"
+    },
+    {
+      "source": "https://ddn.by/product/suvenir-pashalnoe-derevo/",
+      "file": "product/suvenir-pashalnoe-derevo/index.html",
+      "route": "#/product/suvenir-pashalnoe-derevo"
+    },
+    {
+      "source": "https://ddn.by/product/suvenir-pravila-babushki/",
+      "file": "product/suvenir-pravila-babushki/index.html",
+      "route": "#/product/suvenir-pravila-babushki"
+    },
+    {
+      "source": "https://ddn.by/product/suvenir-pravila-bani/",
+      "file": "product/suvenir-pravila-bani/index.html",
+      "route": "#/product/suvenir-pravila-bani"
+    },
+    {
+      "source": "https://ddn.by/product/suvenir-pravila-garazha-300-x-400/",
+      "file": "product/suvenir-pravila-garazha-300-x-400/index.html",
+      "route": "#/product/suvenir-pravila-garazha-300-x-400"
+    },
+    {
+      "source": "https://ddn.by/product/suvenir-pravila-garazha/",
+      "file": "product/suvenir-pravila-garazha/index.html",
+      "route": "#/product/suvenir-pravila-garazha"
+    },
+    {
+      "source": "https://ddn.by/product/suvenir-pravila-kuhni/",
+      "file": "product/suvenir-pravila-kuhni/index.html",
+      "route": "#/product/suvenir-pravila-kuhni"
+    },
+    {
+      "source": "https://ddn.by/product/suvenir-pravila-nastoyashhej-zhenshhiny/",
+      "file": "product/suvenir-pravila-nastoyashhej-zhenshhiny/index.html",
+      "route": "#/product/suvenir-pravila-nastoyashhej-zhenshhiny"
+    },
+    {
+      "source": "https://ddn.by/product/suvenir-pravila-papy/",
+      "file": "product/suvenir-pravila-papy/index.html",
+      "route": "#/product/suvenir-pravila-papy"
+    },
+    {
+      "source": "https://ddn.by/product/suvenir-pravila-rybaka/",
+      "file": "product/suvenir-pravila-rybaka/index.html",
+      "route": "#/product/suvenir-pravila-rybaka"
+    },
+    {
+      "source": "https://ddn.by/product/suvenir-pravila-semi/",
+      "file": "product/suvenir-pravila-semi/index.html",
+      "route": "#/product/suvenir-pravila-semi"
+    },
+    {
+      "source": "https://ddn.by/product/suvenir-samolet-konstruktor-samolyot/",
+      "file": "product/suvenir-samolet-konstruktor-samolyot/index.html",
+      "route": "#/product/suvenir-samolet-konstruktor-samolyot"
+    },
+    {
+      "source": "https://ddn.by/product/suvenir-tri-skalki/",
+      "file": "product/suvenir-tri-skalki/index.html",
+      "route": "#/product/suvenir-tri-skalki"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-korobka-podstakanniki-fanera-v-emale/",
+      "file": "product/suvenirnaya-korobka-podstakanniki-fanera-v-emale/index.html",
+      "route": "#/product/suvenirnaya-korobka-podstakanniki-fanera-v-emale"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-korobka-podstakanniki-fanera-v-lake/",
+      "file": "product/suvenirnaya-korobka-podstakanniki-fanera-v-lake/index.html",
+      "route": "#/product/suvenirnaya-korobka-podstakanniki-fanera-v-lake"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-korobka-so-snezhinkami/",
+      "file": "product/suvenirnaya-korobka-so-snezhinkami/index.html",
+      "route": "#/product/suvenirnaya-korobka-so-snezhinkami"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-podstavka-krolik-s-telezhkoj/",
+      "file": "product/suvenirnaya-podstavka-krolik-s-telezhkoj/index.html",
+      "route": "#/product/suvenirnaya-podstavka-krolik-s-telezhkoj"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-podstavka-loshadka/",
+      "file": "product/suvenirnaya-podstavka-loshadka/index.html",
+      "route": "#/product/suvenirnaya-podstavka-loshadka"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-podstavka-pashalnyj-krolik-fanera-emal/",
+      "file": "product/suvenirnaya-podstavka-pashalnyj-krolik-fanera-emal/index.html",
+      "route": "#/product/suvenirnaya-podstavka-pashalnyj-krolik-fanera-emal"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-podstavka-pashalnyj-krolik-fanera/",
+      "file": "product/suvenirnaya-podstavka-pashalnyj-krolik-fanera/index.html",
+      "route": "#/product/suvenirnaya-podstavka-pashalnyj-krolik-fanera"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-podstavka-pashalnyj-krolik/",
+      "file": "product/suvenirnaya-podstavka-pashalnyj-krolik/index.html",
+      "route": "#/product/suvenirnaya-podstavka-pashalnyj-krolik"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-podstavka-pashalnyj-petushok-fanera-emal/",
+      "file": "product/suvenirnaya-podstavka-pashalnyj-petushok-fanera-emal/index.html",
+      "route": "#/product/suvenirnaya-podstavka-pashalnyj-petushok-fanera-emal"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-podstavka-pashalnyj-petushok-fanera/",
+      "file": "product/suvenirnaya-podstavka-pashalnyj-petushok-fanera/index.html",
+      "route": "#/product/suvenirnaya-podstavka-pashalnyj-petushok-fanera"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-podstavka-pashalnyj-petushok/",
+      "file": "product/suvenirnaya-podstavka-pashalnyj-petushok/index.html",
+      "route": "#/product/suvenirnaya-podstavka-pashalnyj-petushok"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-podstavka-sani-fanera-v-emali/",
+      "file": "product/suvenirnaya-podstavka-sani-fanera-v-emali/index.html",
+      "route": "#/product/suvenirnaya-podstavka-sani-fanera-v-emali"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-podstavka-sani/",
+      "file": "product/suvenirnaya-podstavka-sani/index.html",
+      "route": "#/product/suvenirnaya-podstavka-sani"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-podstavka-serdtse-fanera-lak/",
+      "file": "product/suvenirnaya-podstavka-serdtse-fanera-lak/index.html",
+      "route": "#/product/suvenirnaya-podstavka-serdtse-fanera-lak"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-podstavka-serdtse/",
+      "file": "product/suvenirnaya-podstavka-serdtse/index.html",
+      "route": "#/product/suvenirnaya-podstavka-serdtse"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-podstavka-slon/",
+      "file": "product/suvenirnaya-podstavka-slon/index.html",
+      "route": "#/product/suvenirnaya-podstavka-slon"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-shkatulka-serdtse-fanera-dekupazh/",
+      "file": "product/suvenirnaya-shkatulka-serdtse-fanera-dekupazh/index.html",
+      "route": "#/product/suvenirnaya-shkatulka-serdtse-fanera-dekupazh"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-shkatulka-serdtse/",
+      "file": "product/suvenirnaya-shkatulka-serdtse/index.html",
+      "route": "#/product/suvenirnaya-shkatulka-serdtse"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-upakovka-dream-house-1/",
+      "file": "product/suvenirnaya-upakovka-dream-house-1/index.html",
+      "route": "#/product/suvenirnaya-upakovka-dream-house-1"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-upakovka-samolyot-fanera-emal/",
+      "file": "product/suvenirnaya-upakovka-samolyot-fanera-emal/index.html",
+      "route": "#/product/suvenirnaya-upakovka-samolyot-fanera-emal"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-upakovka-tank-fanera-emal/",
+      "file": "product/suvenirnaya-upakovka-tank-fanera-emal/index.html",
+      "route": "#/product/suvenirnaya-upakovka-tank-fanera-emal"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnaya-upakovka-tank/",
+      "file": "product/suvenirnaya-upakovka-tank/index.html",
+      "route": "#/product/suvenirnaya-upakovka-tank"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnyj-nabor-dlya-chaya-fanera-emal/",
+      "file": "product/suvenirnyj-nabor-dlya-chaya-fanera-emal/index.html",
+      "route": "#/product/suvenirnyj-nabor-dlya-chaya-fanera-emal"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnyj-nabor-dlya-chaya/",
+      "file": "product/suvenirnyj-nabor-dlya-chaya/index.html",
+      "route": "#/product/suvenirnyj-nabor-dlya-chaya"
+    },
+    {
+      "source": "https://ddn.by/product/suvenirnyj-pazl-alfavit/",
+      "file": "product/suvenirnyj-pazl-alfavit/index.html",
+      "route": "#/product/suvenirnyj-pazl-alfavit"
+    },
+    {
+      "source": "https://ddn.by/product/tablichka-banya-bolshaya/",
+      "file": "product/tablichka-banya-bolshaya/index.html",
+      "route": "#/product/tablichka-banya-bolshaya"
+    },
+    {
+      "source": "https://ddn.by/product/tablichka-banya-malaya/",
+      "file": "product/tablichka-banya-malaya/index.html",
+      "route": "#/product/tablichka-banya-malaya"
+    },
+    {
+      "source": "https://ddn.by/product/tablichka-banya-srednyaya/",
+      "file": "product/tablichka-banya-srednyaya/index.html",
+      "route": "#/product/tablichka-banya-srednyaya"
+    },
+    {
+      "source": "https://ddn.by/product/taburet-iz-dsp-belyj/",
+      "file": "product/taburet-iz-dsp-belyj/index.html",
+      "route": "#/product/taburet-iz-dsp-belyj"
+    },
+    {
+      "source": "https://ddn.by/product/taburet-iz-dsp-tsvetnoj/",
+      "file": "product/taburet-iz-dsp-tsvetnoj/index.html",
+      "route": "#/product/taburet-iz-dsp-tsvetnoj"
+    },
+    {
+      "source": "https://ddn.by/product/taburet-kruglyj-loft/",
+      "file": "product/taburet-kruglyj-loft/index.html",
+      "route": "#/product/taburet-kruglyj-loft"
+    },
+    {
+      "source": "https://ddn.by/product/tarelka-spiral-iz-fanery/",
+      "file": "product/tarelka-spiral-iz-fanery/index.html",
+      "route": "#/product/tarelka-spiral-iz-fanery"
+    },
+    {
+      "source": "https://ddn.by/product/telezhka-podkatnaya/",
+      "file": "product/telezhka-podkatnaya/index.html",
+      "route": "#/product/telezhka-podkatnaya"
+    },
+    {
+      "source": "https://ddn.by/product/tenty-dlya-polupritsepov-i-pritsepov/",
+      "file": "product/tenty-dlya-polupritsepov-i-pritsepov/index.html",
+      "route": "#/product/tenty-dlya-polupritsepov-i-pritsepov"
+    },
+    {
+      "source": "https://ddn.by/product/toper-iz-fanery/",
+      "file": "product/toper-iz-fanery/index.html",
+      "route": "#/product/toper-iz-fanery"
+    },
+    {
+      "source": "https://ddn.by/product/truby-vysokogo-davleniya-iz-kompozitnyh-materialov/",
+      "file": "product/truby-vysokogo-davleniya-iz-kompozitnyh-materialov/index.html",
+      "route": "#/product/truby-vysokogo-davleniya-iz-kompozitnyh-materialov"
+    },
+    {
+      "source": "https://ddn.by/product/tubus-iz-fanery/",
+      "file": "product/tubus-iz-fanery/index.html",
+      "route": "#/product/tubus-iz-fanery"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-2/",
+      "file": "product/tumba-2/index.html",
+      "route": "#/product/tumba-2"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-3/",
+      "file": "product/tumba-3/index.html",
+      "route": "#/product/tumba-3"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-4/",
+      "file": "product/tumba-4/index.html",
+      "route": "#/product/tumba-4"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-dlya-dokumentov-2/",
+      "file": "product/tumba-dlya-dokumentov-2/index.html",
+      "route": "#/product/tumba-dlya-dokumentov-2"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-dlya-dokumentov/",
+      "file": "product/tumba-dlya-dokumentov/index.html",
+      "route": "#/product/tumba-dlya-dokumentov"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-dlya-igrushek-1/",
+      "file": "product/tumba-dlya-igrushek-1/index.html",
+      "route": "#/product/tumba-dlya-igrushek-1"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-dlya-igrushek-2/",
+      "file": "product/tumba-dlya-igrushek-2/index.html",
+      "route": "#/product/tumba-dlya-igrushek-2"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-k-stolu-rukovoditelya/",
+      "file": "product/tumba-k-stolu-rukovoditelya/index.html",
+      "route": "#/product/tumba-k-stolu-rukovoditelya"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-loft/",
+      "file": "product/tumba-loft/index.html",
+      "route": "#/product/tumba-loft"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-parovoz/",
+      "file": "product/tumba-parovoz/index.html",
+      "route": "#/product/tumba-parovoz"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-pod-orgtehniku/",
+      "file": "product/tumba-pod-orgtehniku/index.html",
+      "route": "#/product/tumba-pod-orgtehniku"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-pod-tv-2/",
+      "file": "product/tumba-pod-tv-2/index.html",
+      "route": "#/product/tumba-pod-tv-2"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-pod-tv/",
+      "file": "product/tumba-pod-tv/index.html",
+      "route": "#/product/tumba-pod-tv"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-pod-umyvalnik/",
+      "file": "product/tumba-pod-umyvalnik/index.html",
+      "route": "#/product/tumba-pod-umyvalnik"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-podkatnaya-2/",
+      "file": "product/tumba-podkatnaya-2/index.html",
+      "route": "#/product/tumba-podkatnaya-2"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-podkatnaya/",
+      "file": "product/tumba-podkatnaya/index.html",
+      "route": "#/product/tumba-podkatnaya"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-prikrovatnaya-dsp-18mm/",
+      "file": "product/tumba-prikrovatnaya-dsp-18mm/index.html",
+      "route": "#/product/tumba-prikrovatnaya-dsp-18mm"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-prikrovatnaya-dsp-36mm/",
+      "file": "product/tumba-prikrovatnaya-dsp-36mm/index.html",
+      "route": "#/product/tumba-prikrovatnaya-dsp-36mm"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-prikrovatnaya-loft-2/",
+      "file": "product/tumba-prikrovatnaya-loft-2/index.html",
+      "route": "#/product/tumba-prikrovatnaya-loft-2"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-prikrovatnaya-loft/",
+      "file": "product/tumba-prikrovatnaya-loft/index.html",
+      "route": "#/product/tumba-prikrovatnaya-loft"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-prikrovatnaya/",
+      "file": "product/tumba-prikrovatnaya/index.html",
+      "route": "#/product/tumba-prikrovatnaya"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-pristavnaya/",
+      "file": "product/tumba-pristavnaya/index.html",
+      "route": "#/product/tumba-pristavnaya"
+    },
+    {
+      "source": "https://ddn.by/product/tumba-s-vydvizhnymi-mehanizmami/",
+      "file": "product/tumba-s-vydvizhnymi-mehanizmami/index.html",
+      "route": "#/product/tumba-s-vydvizhnymi-mehanizmami"
+    },
+    {
+      "source": "https://ddn.by/product/tumba/",
+      "file": "product/tumba/index.html",
+      "route": "#/product/tumba"
+    },
+    {
+      "source": "https://ddn.by/product/uglovoj-komod/",
+      "file": "product/uglovoj-komod/index.html",
+      "route": "#/product/uglovoj-komod"
+    },
+    {
+      "source": "https://ddn.by/product/ugolok-hudozhnik/",
+      "file": "product/ugolok-hudozhnik/index.html",
+      "route": "#/product/ugolok-hudozhnik"
+    },
+    {
+      "source": "https://ddn.by/product/upakovochnaya-korobka/",
+      "file": "product/upakovochnaya-korobka/index.html",
+      "route": "#/product/upakovochnaya-korobka"
+    },
+    {
+      "source": "https://ddn.by/product/venok-s-novym-godom/",
+      "file": "product/venok-s-novym-godom/index.html",
+      "route": "#/product/venok-s-novym-godom"
+    },
+    {
+      "source": "https://ddn.by/product/veshalka-loft/",
+      "file": "product/veshalka-loft/index.html",
+      "route": "#/product/veshalka-loft"
+    },
+    {
+      "source": "https://ddn.by/product/veshalka-nastennaya-4-krepleniya/",
+      "file": "product/veshalka-nastennaya-4-krepleniya/index.html",
+      "route": "#/product/veshalka-nastennaya-4-krepleniya"
+    },
+    {
+      "source": "https://ddn.by/product/veshalka-nastennaya-6-kreplenij/",
+      "file": "product/veshalka-nastennaya-6-kreplenij/index.html",
+      "route": "#/product/veshalka-nastennaya-6-kreplenij"
+    },
+    {
+      "source": "https://ddn.by/product/vinnyj-stolik-massiv-olhi/",
+      "file": "product/vinnyj-stolik-massiv-olhi/index.html",
+      "route": "#/product/vinnyj-stolik-massiv-olhi"
+    },
+    {
+      "source": "https://ddn.by/product/vintovka-plisa/",
+      "file": "product/vintovka-plisa/index.html",
+      "route": "#/reference"
+    },
+    {
+      "source": "https://ddn.by/product/vintovka-pnevmaticheskaya-gazoballonnaya-krynitsa-k211/",
+      "file": "product/vintovka-pnevmaticheskaya-gazoballonnaya-krynitsa-k211/index.html",
+      "route": "#/reference"
+    },
+    {
+      "source": "https://ddn.by/product/vitrina-2/",
+      "file": "product/vitrina-2/index.html",
+      "route": "#/product/vitrina-2"
+    },
+    {
+      "source": "https://ddn.by/product/vitrina/",
+      "file": "product/vitrina/index.html",
+      "route": "#/product/vitrina"
+    },
+    {
+      "source": "https://ddn.by/product/vizitnitsa-bus-card/",
+      "file": "product/vizitnitsa-bus-card/index.html",
+      "route": "#/product/vizitnitsa-bus-card"
+    },
+    {
+      "source": "https://ddn.by/product/vysokie-stoly-dlya-raboty-i-peregovornyh-zony-otdyha/",
+      "file": "product/vysokie-stoly-dlya-raboty-i-peregovornyh-zony-otdyha/index.html",
+      "route": "#/product/vysokie-stoly-dlya-raboty-i-peregovornyh-zony-otdyha"
+    },
+    {
+      "source": "https://ddn.by/product/yashhik-dlya-napitkov/",
+      "file": "product/yashhik-dlya-napitkov/index.html",
+      "route": "#/product/yashhik-dlya-napitkov"
+    },
+    {
+      "source": "https://ddn.by/product/yashhik-iz-fanery/",
+      "file": "product/yashhik-iz-fanery/index.html",
+      "route": "#/product/yashhik-iz-fanery"
+    },
+    {
+      "source": "https://ddn.by/product/yashhik-iz-sosny/",
+      "file": "product/yashhik-iz-sosny/index.html",
+      "route": "#/product/yashhik-iz-sosny"
+    },
+    {
+      "source": "https://ddn.by/product/yashhik-posylka/",
+      "file": "product/yashhik-posylka/index.html",
+      "route": "#/product/yashhik-posylka"
+    },
+    {
+      "source": "https://ddn.by/product/yolka-s-pozhelaniyami/",
+      "file": "product/yolka-s-pozhelaniyami/index.html",
+      "route": "#/product/yolka-s-pozhelaniyami"
+    },
+    {
+      "source": "https://ddn.by/product/zashivka-nishi-s-polkami/",
+      "file": "product/zashivka-nishi-s-polkami/index.html",
+      "route": "#/product/zashivka-nishi-s-polkami"
+    },
+    {
+      "source": "https://ddn.by/product/zhilet-kombinirovannyj-104-18/",
+      "file": "product/zhilet-kombinirovannyj-104-18/index.html",
+      "route": "#/product/zhilet-kombinirovannyj-104-18"
+    },
+    {
+      "source": "https://ddn.by/product/zhilet-muzhskoj-105-18/",
+      "file": "product/zhilet-muzhskoj-105-18/index.html",
+      "route": "#/product/zhilet-muzhskoj-105-18"
+    },
+    {
+      "source": "https://ddn.by/product/zhilet-s-kapyushonom-101-18/",
+      "file": "product/zhilet-s-kapyushonom-101-18/index.html",
+      "route": "#/product/zhilet-s-kapyushonom-101-18"
+    },
+    {
+      "source": "https://ddn.by/product/zhilet-stegannyj-103-18/",
+      "file": "product/zhilet-stegannyj-103-18/index.html",
+      "route": "#/product/zhilet-stegannyj-103-18"
+    },
+    {
+      "source": "https://ddn.by/product/zhurnalnyj-stol-1080h530h580/",
+      "file": "product/zhurnalnyj-stol-1080h530h580/index.html",
+      "route": "#/product/zhurnalnyj-stol-1080h530h580"
+    },
+    {
+      "source": "https://ddn.by/proekt-doma/",
+      "file": "proekt-doma/index.html",
+      "route": "#/project/proekt-doma"
+    },
+    {
+      "source": "https://ddn.by/proekt-ofisnoj-mebeli/",
+      "file": "proekt-ofisnoj-mebeli/index.html",
+      "route": "#/project/proekt-ofisnoj-mebeli"
+    },
+    {
+      "source": "https://ddn.by/proekt-realizovan-sovmestno-s-kompaniej-byled-sovremennyj-svet/",
+      "file": "proekt-realizovan-sovmestno-s-kompaniej-byled-sovremennyj-svet/index.html",
+      "route": "#/project/proekt-realizovan-sovmestno-s-kompaniej-byled-sovremennyj-svet"
+    },
+    {
+      "source": "https://ddn.by/shkola-talantov-v-novoj-borovoj/",
+      "file": "shkola-talantov-v-novoj-borovoj/index.html",
+      "route": "#/project/shkola-talantov-v-novoj-borovoj"
+    },
+    {
+      "source": "https://ddn.by/shtabnoj-modul/",
+      "file": "shtabnoj-modul/index.html",
+      "route": "#/project/shtabnoj-modul"
+    },
+    {
+      "source": "https://ddn.by/sportivnaya-pnevmaticheskaya-vintovka-plisa-c111/",
+      "file": "sportivnaya-pnevmaticheskaya-vintovka-plisa-c111/index.html",
+      "route": "#/reference"
+    },
+    {
+      "source": "https://ddn.by/vakansii/",
+      "file": "vakansii/index.html",
+      "route": "#/page/vakansii"
+    },
+    {
+      "source": "https://ddn.by/vintovka-pnevmaticheskaya-gazoballonnaya-krynitsa-k211/",
+      "file": "vintovka-pnevmaticheskaya-gazoballonnaya-krynitsa-k211/index.html",
+      "route": "#/reference"
+    },
+    {
+      "source": "https://ddn.by/vintovkaplisac331/",
+      "file": "vintovkaplisac331/index.html",
+      "route": "#/reference"
+    },
+    {
+      "source": "https://ddn.by/zags/",
+      "file": "zags/index.html",
+      "route": "#/project/zags"
+    }
+  ],
+  "skipped": [
+    {
+      "url": "https://ddn.by/",
+      "reason": "root is served by the real dist/index.html"
+    }
+  ],
+  "conflicts": []
+}
